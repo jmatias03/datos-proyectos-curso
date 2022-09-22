@@ -1,0 +1,737 @@
+﻿Country; Number; Position; FIFA Display Name; Last Name; First Name; Shirt Name; Date of Birth; Club; Club Country; Height
+Algeria;1; Goalkeeper; Lounes GAOUAOUI; GAOUAOUI; Lounes; GAOUAOUI;28-sep.-77; Chlef; ALG;188
+Algeria;2; Defender; Madjid BOUGHERRA; BOUGHERRA; Madjid; BOUGHERRA;07-oct.-82; Rangers; SCO;190
+Algeria;3; Defender; Nadir BELHADJ; BELHADJ; Nadir; BELHADJ;18-jun.-82; Portsmouth; ENG;180
+Algeria;4; Defender; Anther YAHIA; YAHIA; Anther; YAHIA;21-mar.-82; Bochum; GER;185
+Algeria;5; Defender; Rafik HALLICHE; HALLICHE; Rafik; HALLICHE;02-sep.-86; Nacional Madeira; POR;187
+Algeria;6; Midfielder; Yazid MANSOURI; MANSOURI; Yazid; MANSOURI;25-feb.-78; Lorient; FRA;175
+Algeria;7; Midfielder; Ryad BOUDEBOUZ; BOUDEBOUZ; Ryad; BOUDEBOUZ;19-feb.-90; Sochaux; FRA;178
+Algeria;8; Midfielder; Medhi LACEN; LACEN; Medhi Gregory Guiseppe; LACEN;15-mar.-84; Racing Santander; ESP;178
+Algeria;9; Forward; Abdelkader GHEZZAL; GHEZZAL; Abdelkader Mohamed; GHEZZAL;05-dic.-84; Siena; ITA;186
+Algeria;10; Forward; Rafik SAIFI; SAIFI; Rafik; SAIFI;07-feb.-75; Istres; FRA;178
+Algeria;11; Forward; Rafik DJEBBOUR; DJEBBOUR; Rafik Zoheir; DJEBBOUR;08-mar.-84; AEK Athens; GRE;185
+Algeria;12; Defender; Habib BELLAID; BELLAID; Habib Mohamed; BELLAID;28-mar.-86; Boulogne; FRA;189
+Algeria;13; Midfielder; Karim MATMOUR; MATMOUR; Karim; MATMOUR;25-jun.-85; Borussia Moenchengladbach; GER;181
+Algeria;14; Defender; Abdelkader LAIFAOUI; LAIFAOUI; Abdelkader; LAIFAOUI;29-jul.-81; Setif; ALG;177
+Algeria;15; Midfielder; Karim ZIANI; ZIANI; Karim Koceila Yanis; ZIANI;17-ago.-82; Wolfsburg; GER;168
+Algeria;16; Goalkeeper; Faouzi CHAOUCHI; CHAOUCHI; Faouzi; CHAOUCHI;05-dic.-84; Setif; ALG;180
+Algeria;17; Midfielder; Adlane GUEDIOURA; GUEDIOURA; Adlane; GUEDIOURA;12-nov.-85; Wolverhampton; ENG;183
+Algeria;18; Defender; Carl MEDJANI; MEDJANI; Carl; MEDJANI;15-may.-85; Ajaccio; FRA;184
+Algeria;19; Midfielder; Hassan YEBDA; YEBDA; Hassan; YEBDA;14-may.-84; Portsmouth; ENG;188
+Algeria;20; Defender; Djamel MESBAH; MESBAH; Djamel; Eddine; MESBAH 09 Oct 1984; Lecce; ITA;180
+Algeria;21; Midfielder; Foued KADIR; KADIR; Foued; KADIR;05-dic.-83; Valenciennes; FRA;180
+Algeria;22; Midfielder; Djamal ABDOUN; ABDOUN; Djamal; ABDOUN;14-feb.-86; Nantes; FRA;180
+Algeria;23; Goalkeeper; Rais M BOLHI; M'BOLHI; Adi Rais Cobos Adrien; MBOLHI;25-abr.-86; Slavia Sofia; BUL;190
+Argentina;1; Goalkeeper; Diego POZO; POZO; Diego; POZO;16-feb.-78; Atletico Colon; ARG;183
+Argentina;2; Defender; Martin DEMICHELIS; DEMICHELIS; Martin Gaston; DEMICHELIS;20-dic.-80; Bayern Munich; GER;184
+Argentina;3; Defender; Clemente RODRIGUEZ; RODRIGUEZ; Clemente Juan; RODRIGUEZ C.;31-jul.-81; Estudiantes La Plata; ARG;166
+Argentina;4; Defender; Nicolas BURDISSO; BURDISSO; Nicolas Andres; BURDISSO;12-abr.-81; AS Roma; ITA;174
+Argentina;5; Midfielder; Mario BOLATTI; BOLATTI; Mario Ariel; BOLATTI;17-feb.-85; Fiorentina; ITA;189
+Argentina;6; Defender; Gabriel HEINZE; HEINZE; Gabriel Ivan; HEINZE;19-abr.-78; Marseille; FRA;178
+Argentina;7; Midfielder; Angel DI MARIA; DI MARIA; Angel Fabian; DI MARIA;14-feb.-88; Benfica; POR;180
+Argentina;8; Midfielder; Juan VERON; VERON; Juan Sebastian; VERON;09-mar.-75; Estudiantes La Plata; ARG;183
+Argentina;9; Forward; Gonzalo HIGUAIN; HIGUAIN; Gonzalo Gerardo; HIGUAIN;10-dic.-87; Real Madrid; ESP;182
+Argentina;10; Forward; Lionel MESSI; MESSI CUCCITTINI; Lionel Andres; MESSI;24-jun.-87; Barcelona; ESP;170
+Argentina;11; Forward; Carlos TEVEZ; TEVEZ; Carlos Alberto; CARLITOS;05-feb.-84; Manchester City; ENG;173
+Argentina;12; Defender; Ariel GARCE; GARCE; Ariel Hernan; GARCE;14-jul.-79; Atletico Colon; ARG;175
+Argentina;13; Defender; Walter SAMUEL; SAMUEL; Walter Adrian; SAMUEL;23-mar.-78; Inter; ITA;182
+Argentina;14; Midfielder; Javier MASCHERANO; MASCHERANO; Javier Alejandro; MASCHERANO;08-jun.-84; Liverpool; ENG;171
+Argentina;15; Defender; Nicolas OTAMENDI; OTAMENDI; Nicolas Hernan; OTAMENDI;12-feb.-88; Velez Sarsfield; ARG;171
+Argentina;16; Forward; Sergio AGUERO; AGÜERO; Sergio Leonel; KUN AGUERO;02-jun.-88; Atletico Madrid; ESP;170
+Argentina;17; Midfielder; Jonas GUTIERREZ; GUTIERREZ; Jonas Manuel; JONAS;05-jul.-83; Newcastle Utd.; ENG;182
+Argentina;18; Forward; Martin PALERMO; PALERMO; Martin; PALERMO;07-nov.-73; Boca Juniors; ARG;188
+Argentina;19; Forward; Diego MILITO; MILITO; Diego; MILITO D.;12-jun.-79; Inter; ITA;177
+Argentina;20; Midfielder; Maxi RODRIGUEZ; RODRIGUEZ; Maximiliano Ruben; RODRIGUEZ M.;02-ene.-81; Liverpool; ENG;173
+Argentina;21; Goalkeeper; Mariano ANDUJAR; ANDUJAR; Mariano; ANDUJAR;30-jul.-83; Catania; ITA;180
+Argentina;22; Goalkeeper; Sergio ROMERO; ROMERO; Sergio German; ROMERO;22-feb.-87; AZ Alkmaar; NED;191
+Argentina;23; Midfielder; Javier PASTORE; PASTORE; Javier; PASTORE;20-jun.-89; Palermo; ITA;173
+Australia;1; Goalkeeper; Mark SCHWARZER; SCHWARZER; Mark; SCHWARZER;06-oct.-72; Fulham; ENG;196
+Australia;2; Defender; Lucas NEILL; NEILL; Lucas Edward; NEILL;09-mar.-78; Galatasaray; TUR;185
+Australia;3; Defender; Craig MOORE; MOORE; Craig Andrew; MOORE;12-dic.-75; No club affiliation; UNK;186
+Australia;4; Forward; Tim CAHILL; CAHILL; Timothy Filiga; CAHILL;06-dic.-79; Everton; ENG;180
+Australia;5; Midfielder; Jason CULINA; CULINA; Jason; CULINA;05-ago.-80; Gold Coast United; AUS;175
+Australia;6; Defender; Michael BEAUCHAMP; BEAUCHAMP; Michael Francis; BEAUCHAMP;08-mar.-81; Al Jazira; UAE;191
+Australia;7; Midfielder; Brett EMERTON; EMERTON; Brett Michael; EMERTON;22-feb.-79; Blackburn Rovers; ENG;185
+Australia;8; Defender; Luke WILKSHIRE; WILKSHIRE; Luke; WILKSHIRE;02-oct.-81; Dynamo Moscow; RUS;177
+Australia;9; Forward; Joshua KENNEDY; KENNEDY; Joshua Blake; KENNEDY;20-ago.-82; Nagoya Grampus Eight; JPN;192
+Australia;10; Forward; Harry KEWELL; KEWELL; Harry; KEWELL;22-sep.-78; Galatasaray; TUR;183
+Australia;11; Defender; Scott CHIPPERFIELD; CHIPPERFIELD; Scott Kenneth; CHIPPERFIELD;30-dic.-75; Basel; SUI;180
+Australia;12; Goalkeeper; Adam FEDERICI; FEDERICI; Adam Jay; FEDERICI;31-ene.-85; Reading; ENG;188
+Australia;13; Midfielder; Vince GRELLA; GRELLA; Vincenzo; GRELLA;05-oct.-79; Blackburn Rovers; ENG;183
+Australia;14; Forward; Brett HOLMAN; HOLMAN; Brett Trevor; HOLMAN;27-mar.-84; AZ Alkmaar; NED;176
+Australia;15; Midfielder; Mile JEDINAK; JEDINAK; Michael John; JEDINAK;03-ago.-84; Antalyaspor; TUR;188
+Australia;16; Midfielder; Carl VALERI; VALERI; Carl; VALERI;14-ago.-84; Sassuolo; ITA;180
+Australia;17; Forward; Nikita RUKAVYTSYA; RUKAVYTSYA; Nikita; RUKAVYTSYA;22-jun.-87; Twente Enschede; NED;183
+Australia;18; Goalkeeper; Brad JONES; JONES; Bradley Scott; JONES;19-mar.-82; Middlesbrough; ENG;193
+Australia;19; Forward; Richard GARCIA; GARCIA; Richard; GARCIA;04-sep.-81; Hull City; ENG;180
+Australia;20; Defender; Mark MILLIGAN; MILLIGAN; Mark Daniel; MILLIGAN;04-ago.-85; JEF United Ichihara; JPN;178
+Australia;21; Defender; David CARNEY; CARNEY; David Raymond; CARNEY;30-nov.-83; Twente Enschede; NED;181
+Australia;22; Midfielder; Dario VIDOSIC; VIDOSIC; Dario; VIDOSIC;08-abr.-87; MSV Duisburg; GER;185
+Australia;23; Forward; Marco BRESCIANO; BRESCIANO; Mark; BRESCIANO;11-feb.-80; Palermo; ITA;182
+Brazil;1; Goalkeeper; JULIO CESAR; SOARES DE ESPINDOLA; Julio Cesar; JULIO CESAR;03-sep.-79; Inter; ITA;186
+Brazil;2; Defender; MAICON; SISENANDO; Maicon Douglas; MAICON;26-jul.-81; Inter; ITA;186
+Brazil;3; Defender; LUCIO; DA SILVA FERREIRA; Lucimar; LÚCIO;08-may.-78; Inter; ITA;188
+Brazil;4; Defender; JUAN; SILVEIRA DOS SANTOS; Juan; JUAN;01-feb.-79; AS Roma; ITA;182
+Brazil;5; Midfielder; FELIPE MELO; MELO DE CARVALHO; Felipe; FELIPE MELO;26-jun.-83; Juventus; ITA;183
+Brazil;6; Defender; MICHEL BASTOS; FERNANDES BASTOS; Michel M.; BASTOS;02-ago.-83; Lyon; FRA;179
+Brazil;7; Midfielder; ELANO; BLUMER; Elano; ELANO;14-jun.-81; Galatasaray; TUR;174
+Brazil;8; Midfielder; GILBERTO SILVA; DA SILVA; Gilberto Aparecido; G. SILVA;07-oct.-76; Panathinaikos; GRE;184
+Brazil;9; Forward; LUIS FABIANO; CLEMENTE; Luis Fabiano; L. FABIANO;08-nov.-80; Sevilla FC; ESP;186
+Brazil;10; Midfielder; KAKA; IZECSON DOS SANTOS LEITE; Ricardo; KAKÁ;22-abr.-82; Real Madrid; ESP;186
+Brazil;11; Forward; ROBINHO; DE SOUZA; Robson; ROBINHO;25-ene.-84; Santos; BRA;175
+Brazil;12; Goalkeeper; GOMES; DA SILVA GOMES; Heurelho; GOMES;15-feb.-81; Tottenham Hotspur; ENG;191
+Brazil;13; Defender; DANI ALVES; ALVES DA SILVA; Daniel D.; ALVES;06-may.-83; Barcelona; ESP;173
+Brazil;14; Defender; LUISAO; DA SILVA; Anderson Luis; LUISÃO;13-feb.-81; Benfica; POR;193
+Brazil;15; Defender; THIAGO SILVA; DA SILVA; Thiago Emiliano; T. SILVA;22-sep.-84; AC Milan; ITA;183
+Brazil;16; Defender; GILBERTO MELO; DA SILVA MELO; Gilberto; GILBERTO;25-abr.-76; Cruzeiro; BRA;180
+Brazil;17; Midfielder; JOSUE; DE OLIVEIRA; Josué Anunciado; JOSUÉ;19-jul.-79; Wolfsburg; GER;169
+Brazil;18; Midfielder; RAMIRES; SANTOS DO NASCIMENTO; Ramires; RAMIRES;24-mar.-87; Benfica; POR;179
+Brazil;19; Midfielder; JULIO BAPTISTA; BAPTISTA; Julio Cesar J.; BAPTISTA;01-oct.-81; AS Roma; ITA;185
+Brazil;20; Midfielder; KLEBERSON; PEREIRA; José Kleberson; KLEBERSON;19-jun.-79; Flamengo; BRA;175
+Brazil;21; Forward; NILMAR; HONORATO DA SILVA; Nilmar; NILMAR;14-jul.-84; Villarreal; ESP;180
+Brazil;22; Goalkeeper; DONI; MARANGON; Donieber Alexander; DONI;22-oct.-79; AS Roma; ITA;194
+Brazil;23; Forward; GRAFITE; LIBANIO BATISTA; Edinaldo; GRAFITE;02-abr.-79; Wolfsburg; GER;189
+Cameroon;1; Goalkeeper; Idriss KAMENI; KAMENI; Idris Carlos; KAMENI;18-feb.-84; Espanyol; ESP;185
+Cameroon;2; Defender; Benoit ASSOU-EKOTTO; ASSOU-EKOTTO; Benoit; ASSOU EKOTTO;24-mar.-84; Tottenham Hotspur; ENG;178
+Cameroon;3; Defender; Nicolas NKOULOU; NKOULOU NDOUBENA; Nicolas Julio; NKOULOU;27-mar.-90; Monaco; FRA;185
+Cameroon;4; Defender; Rigobert SONG; SONG BAHANAG; Rigobert; SONG;01-jul.-76; Trabzonspor; TUR;185
+Cameroon;5; Defender; Sebastien BASSONG; BASSONG NGUEMA; Sebastien Aymer; BASSONG;09-jul.-86; Tottenham Hotspur; ENG;187
+Cameroon;6; Midfielder; Alexandre SONG; SONG BILONG; Alexandre Dimitri; A. SONG;09-sep.-87; Arsenal; ENG;183
+Cameroon;7; Midfielder; Landry NGUEMO; TSAFACK NGUEMO; Joel Landry; NGUEMO;28-nov.-85; Celtic; SCO;172
+Cameroon;8; Defender; GEREMI; NJITAP FOTSO; Geremi Sorelle; NJITAP;20-dic.-78; Ankaragucu; TUR;177
+Cameroon;9; Forward; Samuel ETOO; ETO'O FILS; Samuel; ETO'O;10-mar.-81; Inter; ITA;178
+Cameroon;10; Forward; Achille EMANA; EMANA EDZIMBI; Achille; EMANA;05-jun.-82; Betis Sevilla; ESP;180
+Cameroon;11; Midfielder; Jean MAKOUN; MAKOUN; Jean II; MAKOUN;29-may.-83; Lyon; FRA;170
+Cameroon;12; Defender; Gaetan BONG; BONG; Thomas Gaëtan; BONG;25-abr.-88; Valenciennes; FRA;183
+Cameroon;13; Forward; Eric CHOUPO MOTING; CHOUPO MOTING; Eric Maxim; CHOUPO - MOTING;23-mar.-89; Nuremberg; GER;190
+Cameroon;14; Defender; Aurelien CHEDJOU; CHEDJOU FONGANG; Aurelien Bayard; CHEDJOU;20-jun.-85; Lille; FRA;185
+Cameroon;15; Forward; Pierre WEBO; WEBO KOUAMO; Pierre Achille; WEBO;20-ene.-82; Mallorca; ESP;180
+Cameroon;16; Goalkeeper; Souleymanou HAMIDOU; HAMIDOU; Souleymanou; SOULEYMANOU;22-nov.-73; Kayserispor; TUR;187
+Cameroon;17; Forward; Mohamadou IDRISSOU; IDRISSOU; Mohamadou; IDRISSOU;08-mar.-80; SC Freiburg; GER;190
+Cameroon;18; Midfielder; Eyong ENOH; TARKANG ENOH; Eyong; EYONG;23-mar.-86; Ajax; NED;180
+Cameroon;19; Defender; Stephane MBIA; MBIA ETOUNDI; Stephane; MBIA;20-may.-86; Marseille; FRA;190
+Cameroon;20; Midfielder; Georges MANDJECK; MANDJECK; Georges Constant; MANDJECK;09-dic.-88; Kaiserslautern; GER;181
+Cameroon;21; Midfielder; Joel MATIP; MATIP JOB; Joel Andre; MATIP;08-ago.-91; Schalke 04; GER;194
+Cameroon;22; Goalkeeper; Guy NDY; NDY ASSEMBE; Guy Roland; NDY ASSEMBE;28-feb.-86; Valenciennes; FRA;185
+Cameroon;23; Forward; Vincent ABOUBAKAR; ABOUBAKAR; Vincent; ABOUBAKAR;22-ene.-92; Coton Sport; CMR;176
+Chile;1; Goalkeeper; Claudio BRAVO; BRAVO MUNOZ; Claudio Andres; BRAVO;13-abr.-83; Real Sociedad; ESP;183
+Chile;2; Defender; Ismael FUENTES; FUENTES CASTRO; Ismael Ignacio; FUENTES;04-ago.-81; Univ. Catolica; CHI;181
+Chile;3; Defender; Waldo PONCE; PONCE CARRIZO; Waldo Alonso; PONCE;04-dic.-82; Univ. Catolica; CHI;183
+Chile;4; Defender; Mauricio ISLA; ISLA ISLA; Mauricio Anibal; ISLA;12-jun.-88; Udinese; ITA;177
+Chile;5; Defender; Pablo CONTRERAS; CONTRERAS FICA; Pablo Andres; CONTRERAS;11-sep.-78; PAOK; GRE;178
+Chile;6; Midfielder; Carlos CARMONA; CARMONA TELLO; Carlos Emilio; CARMONA;21-feb.-87; Reggina; ITA;179
+Chile;7; Forward; Alexis SANCHEZ; SANCHEZ SANCHEZ; Alexis Alejandro; SANCHEZ;19-dic.-88; Udinese; ITA;168
+Chile;8; Midfielder; Arturo VIDAL; VIDAL PARDO; Arturo Erasmo; VIDAL;22-may.-87; Bayer Leverkusen; GER;178
+Chile;9; Forward; Humberto SUAZO; SUAZO PONTIVO; Humberto Andres; SUAZO;10-may.-81; Zaragoza; ESP;171
+Chile;10; Midfielder; Jorge VALDIVIA; VALDIVIA TORO; Jorge Luis; VALDIVIA;19-oct.-83; Al Ain; UAE;173
+Chile;11; Forward; Mark GONZALEZ; GONZALEZ HOFFMANN; Mark Dennis M.; GONZALEZ;10-jul.-84; CSKA Moscow; RUS;175
+Chile;12; Goalkeeper; Miguel PINTO; PINTO JEREZ; Miguel Angel; PINTO;04-jul.-83; Univ. de Chile; CHI;180
+Chile;13; Midfielder; Marco ESTRADA; ESTRADA QUINTEROS; Marco Andres; ESTRADA;28-may.-83; Univ. de Chile; CHI;174
+Chile;14; Midfielder; Matias FERNANDEZ; FERNANDEZ FERNANDEZ; Matias Ariel; FERNANDEZ;15-may.-86; Sporting Lisbon; POR;176
+Chile;15; Forward; Jean BEAUSEJOUR; BEAUSEJOUR COLIQUEO; Jean Andre; BEAUSEJOUR;01-jun.-84; America; MEX;178
+Chile;16; Forward; Fabian ORELLANA; ORELLANA VALENZUELA; Fabian Ariel; ORELLANA;27-ene.-86; Xerez; ESP;168
+Chile;17; Defender; Gary MEDEL; MEDEL SOTO; Gary Alexis; MEDEL;03-ago.-87; Boca Juniors; ARG;171
+Chile;18; Defender; Gonzalo JARA; JARA REYES; Gonzalo Alejandro; JARA;29-ago.-85; West Bromwich Albion; ENG;177
+Chile;19; Midfielder; Gonzalo FIERRO; FIERRO CANIULLAN; Gonzalo Antonio; FIERRO;21-mar.-83; Flamengo; BRA;171
+Chile;20; Midfielder; Rodrigo MILLAR; MILLAR CARVAJAL; Rodrigo Javier; MILLAR;03-nov.-81; Colo Colo; CHI;182
+Chile;21; Midfielder; Rodrigo TELLO; TELLO VALENZUELA; Rodrigo Alvaro; TELLO;14-oct.-79; Besiktas; TUR;171
+Chile;22; Forward; Esteban PAREDES; PAREDES QUINTANILLA; Esteban Efrain; PAREDES;01-ago.-80; Colo Colo; CHI;179
+Chile;23; Goalkeeper; Luis MARIN; MARIN BARAHONA; Luis Antonio; MARIN;18-may.-83; Union Espanola; CHI;186
+Côte d'Ivoire;1; Goalkeeper; Boubacar BARRY; BARRY; Boubacar; BARRY;30-dic.-79; Lokeren; BEL;180
+Côte d'Ivoire;2; Defender; Brou ANGOUA; ANGOUA; Brou Benjamin; ANGOUA;28-nov.-86; Valenciennes; FRA;178
+Côte d'Ivoire;3; Defender; Arthur BOKA; BOKA; Etienne Arthur; BOKA;02-abr.-83; VfB Stuttgart; GER;166
+Côte d'Ivoire;4; Defender; Kolo TOURE; TOURE; Kolo Habib; TOURE KOLO;19-mar.-81; Manchester City; ENG;183
+Côte d'Ivoire;5; Midfielder; Didier ZOKORA; ZOKORA; Alain Didier Deguy; ZOKORA;14-dic.-80; Sevilla FC; ESP;183
+Côte d'Ivoire;6; Defender; Steve GOHOURI; GOHOURI; Lohore Steve Ulrich; GOHOURI;08-feb.-81; Wigan; ENG;187
+Côte d'Ivoire;7; Forward; Seydou DOUMBIA; DOUMBIA; Seydou; DOUMBIA;31-dic.-87; Young Boys; SUI;183
+Côte d'Ivoire;8; Forward; Salomon KALOU; KALOU; Salomon Armand Magloire; KALOU;05-ago.-85; Chelsea; ENG;175
+Côte d'Ivoire;9; Midfielder; Ismael TIOTE; TIOTE CHEIK; Ismael; TIOTE;21-jun.-86; Twente Enschede; NED;175
+Côte d'Ivoire;10; Forward; GERVINHO; YAO KOUASSI; Gervais; GERVINHO;27-may.-87; Lille; FRA;179
+Côte d'Ivoire;11; Forward; Didier DROGBA; DROGBA TEBILY; Didier Yves; DROGBA;11-mar.-78; Chelsea; ENG;180
+Côte d'Ivoire;12; Midfielder; Jean Jacques GOSSO; GOSSO; Jean Jacques; GOSSO;15-mar.-83; Monaco; FRA;177
+Côte d'Ivoire;13; Midfielder; ROMARIC; N'DRI; Koffi Christian Romaric; ROMARIC;04-jun.-83; Sevilla FC; ESP;187
+Côte d'Ivoire;14; Midfielder; Emmanuel KONE; KONE KOUAMATIEN; Emmanuel; KONE;31-dic.-86; International; ROU;177
+Côte d'Ivoire;15; Forward; Aruna DINDANE; DINDANE; Aruna; DINDANE;26-nov.-80; Portsmouth; ENG;174
+Côte d'Ivoire;16; Goalkeeper; Aristide ZOGBO; ZOGBO; Aristide Benoit; ZOGBO;30-dic.-81; Maccabi Netanya; ISR;183
+Côte d'Ivoire;17; Defender; Siaka TIENE; TIENE; Siaka; TIENE;22-feb.-82; Valenciennes; FRA;176
+Côte d'Ivoire;18; Forward; Kader KEITA; KEITA; Abdul Kader; KEITA;06-ago.-81; Lyon; FRA;184
+Côte d'Ivoire;19; Midfielder; Yaya TOURE; TOURE; Yaya Gnegneri; TOURE YAYA;13-may.-83; Barcelona; ESP;189
+Côte d'Ivoire;20; Defender; Guy DEMEL; DEMEL; Guy; DEMEL;13-jun.-81; Hamburger SV; GER;191
+Côte d'Ivoire;21; Defender; Emmanuel EBOUE; EBOUE; Emmanuel; EBOUE;04-jun.-83; Arsenal; ENG;178
+Côte d'Ivoire;22; Defender; Souleymane BAMBA; BAMBA; Souleman; BAMBA;13-ene.-85; Hibernian; SCO;190
+Côte d'Ivoire;23; Goalkeeper; Daniel YEBOAH; YEBOAH; Daniel Techi; YEBOAH;13-nov.-84; ASEC Mimosas; CIV;187
+Denmark;1; Goalkeeper; Thomas SORENSEN; SORENSEN; Thomas Løvendahl; SØRENSEN;12-jun.-76; Stoke City; ENG;185
+Denmark;2; Midfielder; Christian POULSEN; POULSEN; Christian Bjørnshøj; C. POULSEN;28-feb.-80; Juventus; ITA;182
+Denmark;3; Defender; Simon KJAER; KJAER; Simon Thorup; KJÆR;26-mar.-89; Palermo; ITA;191
+Denmark;4; Defender; Daniel AGGER; AGGER; Daniel Munthe; AGGER;12-dic.-84; Liverpool; ENG;188
+Denmark;5; Midfielder; William KVIST; KVIST JØRGENSEN; William; KVIST;24-feb.-85; Copenhagen; DEN;185
+Denmark;6; Defender; Lars JACOBSEN; JACOBSEN; Lars Christian; L. JACOBSEN;20-sep.-79; Blackburn Rovers; ENG;184
+Denmark;7; Midfielder; Daniel JENSEN; JENSEN; Daniel Monberg; JENSEN;25-jun.-79; Werder Bremen; GER;180
+Denmark;8; Forward; Jesper GRONKJAER; GRONKJAER; Jesper; GRØNKJÆR;12-ago.-77; Copenhagen; DEN;187
+Denmark;9; Forward; Jon Dahl TOMASSON; TOMASSON; Jon Dahl; TOMASSON;29-ago.-76; Feyenoord; NED;182
+Denmark;10; Midfielder; Martin JORGENSEN; JORGENSEN; Lars Martin; JØRGENSEN;06-oct.-76; AGF Aarhus; DEN;180
+Denmark;11; Forward; Nicklas BENDTNER; BENDTNER; Nicklas; BENDTNER;16-ene.-88; Arsenal; ENG;194
+Denmark;12; Midfielder; Thomas KAHLENBERG; KAHLENBERG; Thomas; KAHLENBERG;20-mar.-83; Wolfsburg; GER;185
+Denmark;13; Defender; Per KROLDRUP; KROLDRUP; Per Billeskov; KRØLDRUP;31-jul.-79; Fiorentina; ITA;194
+Denmark;14; Midfielder; Jakob POULSEN; POULSEN; Jakob Bendix Uhd; J. POULSEN;07-jul.-83; AGF Aarhus; DEN;185
+Denmark;15; Defender; Simon POULSEN; BUSK POULSEN; Simon; S.B. POULSEN;07-abr.-84; AZ Alkmaar; NED;187
+Denmark;16; Goalkeeper; Stephan ANDERSEN; ANDERSEN; Stephan Maigaard; ANDERSEN;26-nov.-81; Brondby; DEN;188
+Denmark;17; Forward; Mikkel BECKMANN; BECKMANN; Mikkel; BECKMANN;24-oct.-83; Randers; DEN;178
+Denmark;18; Forward; Soren LARSEN; LARSEN; Soren; LARSEN;06-sep.-81; MSV Duisburg; GER;194
+Denmark;19; Forward; Dennis ROMMEDAHL; ROMMEDAHL; Dennis; ROMMEDAHL;22-jul.-78; Ajax; NED;178
+Denmark;20; Midfielder; Thomas ENEVOLDSEN; ENEVOLDSEN; Thomas; ENEVOLDSEN;27-jul.-87; Groningen; NED;182
+Denmark;21; Midfielder; Christian ERIKSEN; ERIKSEN; Christian Dannemann; ERIKSEN;14-feb.-92; Ajax; NED;181
+Denmark;22; Goalkeeper; Jesper CHRISTIANSEN; RINGSBORG CHRISTIANSEN; Jesper; CHRISTIANSEN;24-abr.-78; Copenhagen; DEN;192
+Denmark;23; Defender; Patrick MTILIGA; MTILIGA; Patrick Jan; MTILIGA;28-ene.-81; Malaga; ESP;170
+England;1; Goalkeeper; David JAMES; JAMES; David Benjamin; JAMES;01-ago.-70; Portsmouth; ENG;196
+England;2; Defender; Glen JOHNSON; JOHNSON; Glen; JOHNSON;23-ago.-84; Liverpool; ENG;178
+England;3; Defender; Ashley COLE; COLE; Ashley; A COLE;20-dic.-80; Chelsea; ENG;173
+England;4; Midfielder; Steven GERRARD; GERRARD; Steven George; GERRARD;30-may.-80; Liverpool; ENG;185
+England;5; Defender; Rio FERDINAND; FERDINAND; Rio Gavin; FERDINAND;07-nov.-78; Manchester Utd.; ENG;188
+England;6; Defender; John TERRY; TERRY; John George; TERRY;07-dic.-80; Chelsea; ENG;188
+England;7; Midfielder; Aaron LENNON; LENNON; Aaron; LENNON;16-abr.-87; Tottenham Hotspur; ENG;165
+England;8; Midfielder; Frank LAMPARD; LAMPARD; Frank James; LAMPARD;20-jun.-78; Chelsea; ENG;183
+England;9; Forward; Peter CROUCH; CROUCH; Peter James; CROUCH;30-ene.-81; Tottenham Hotspur; ENG;201
+England;10; Forward; Wayne ROONEY; ROONEY; Wayne Mark; ROONEY;24-oct.-85; Manchester Utd.; ENG;178
+England;11; Midfielder; Joe COLE; COLE; Joseph John; J COLE;08-nov.-81; Chelsea; ENG;175
+England;12; Goalkeeper; Robert GREEN; GREEN; Robert Paul; GREEN;18-ene.-80; West Ham Utd.; ENG;187
+England;13; Defender; Stephen WARNOCK; WARNOCK; Stephen; WARNOCK;12-dic.-81; Aston Villa; ENG;175
+England;14; Midfielder; Gareth BARRY; BARRY; Gareth; BARRY;23-feb.-81; Manchester City; ENG;180
+England;15; Defender; Matt UPSON; UPSON; Matthew; UPSON;18-abr.-79; West Ham Utd.; ENG;185
+England;16; Midfielder; James MILNER; MILNER; James; MILNER;04-ene.-86; Aston Villa; ENG;170
+England;17; Midfielder; Shaun WRIGHT-PHILLIPS; WRIGHT-PHILLIPS; Shaun Cameron; WRIGHT-PHILLIPS;25-oct.-81; Manchester City; ENG;168
+England;18; Defender; Jamie CARRAGHER; CARRAGHER; James Lee; CARRAGHER;28-ene.-78; Liverpool; ENG;185
+England;19; Forward; Jermain DEFOE; DEFOE; Jermain Colin; DEFOE;07-oct.-82; Tottenham Hotspur; ENG;170
+England;20; Defender; Ledley KING; KING; Ledley Brenton; KING;12-oct.-80; Tottenham Hotspur; ENG;188
+England;21; Forward; Emile HESKEY; HESKEY; Emile William Ivanhoe; HESKEY;11-ene.-78; Aston Villa; ENG;188
+England;22; Midfielder; Michael CARRICK; CARRICK; Michael; CARRICK;28-jul.-81; Manchester Utd.; ENG;183
+England;23; Goalkeeper; Joe HART; HART; Joe; HART;19-abr.-87; Birmingham City; ENG;191
+France;1; Goalkeeper; Hugo LLORIS; LLORIS; Hugo; LLORIS;26-dic.-86; Lyon; FRA;188
+France;2; Defender; Bakari SAGNA; SAGNA; Bakari; SAGNA;14-feb.-83; Arsenal; ENG;175
+France;3; Defender; Eric ABIDAL; ABIDAL; Eric Sylvain; ABIDAL;11-sep.-79; Barcelona; ESP;180
+France;4; Defender; Anthony REVEILLERE; REVEILLERE; Anthony; REVEILLERE;10-nov.-79; Lyon; FRA;181
+France;5; Defender; William GALLAS; GALLAS; William Eric; GALLAS;17-ago.-77; Arsenal; ENG;181
+France;6; Defender; Marc PLANUS; PLANUS; Marc; PLANUS;07-mar.-82; Bordeaux; FRA;183
+France;7; Forward; Franck RIBERY; RIBÉRY; Franck; RIBERY;07-abr.-83; Bayern Munich; GER;175
+France;8; Midfielder; Yoann GOURCUFF; GOURCUFF; Yoann Miguel; GOURCUFF;11-jul.-86; Bordeaux; FRA;185
+France;9; Forward; Djibril CISSE; CISSE; Djibril; CISSE;12-ago.-81; Panathinaikos; GRE;182
+France;10; Forward; Sidney GOVOU; GOVOU; Sidney Rodrigue Noukpo; GOVOU;27-jul.-79; Lyon; FRA;175
+France;11; Forward; Andre Pierre GIGNAC; GIGNAC; André Pierre; GIGNAC;05-dic.-85; Toulouse; FRA;187
+France;12; Forward; Thierry HENRY; HENRY; Thierry Daniel; HENRY;17-ago.-77; Barcelona; ESP;188
+France;13; Defender; Patrice EVRA; EVRA; Patrice Latyr; EVRA;15-may.-81; Manchester Utd.; ENG;171
+France;14; Midfielder; Jeremy TOULALAN; TOULALAN; Jeremy; TOULALAN;10-sep.-83; Lyon; FRA;183
+France;15; Midfielder; Florent MALOUDA; MALOUDA; Florent; MALOUDA;13-jun.-80; Chelsea; ENG;184
+France;16; Goalkeeper; Steve MANDANDA; MANDANDA; Steve; MANDANDA;28-mar.-85; Marseille; FRA;185
+France;17; Defender; Sebastien SQUILLACI; SQUILLACI; Sébastien; SQUILLACI;11-ago.-80; Sevilla FC; ESP;184
+France;18; Midfielder; Alou DIARRA; DIARRA; Alou; A. DIARRA;15-jul.-81; Bordeaux; FRA;190
+France;19; Midfielder; Abou DIABY; DIABY; Abou; DIABY;11-may.-86; Arsenal; ENG;188
+France;20; Forward; Mathieu VALBUENA; VALBUENA; Mathieu; VALBUENA;28-sep.-84; Marseille; FRA;167
+France;21; Forward; Nicolas ANELKA; ANELKA; Nicolas Sebastien; ANELKA;14-mar.-79; Chelsea; ENG;185
+France;22; Defender; Gael CLICHY; CLICHY; Gael; CLICHY;26-jul.-85; Arsenal; ENG;181
+France;23; Goalkeeper; Cedric CARRASSO; CARRASSO; Cedric; CARRASSO;30-dic.-81; Bordeaux; FRA;187
+Germany;1; Goalkeeper; Manuel NEUER; NEUER; Manuel; NEUER;27-mar.-86; Schalke 04; GER;190
+Germany;2; Midfielder; Marcell JANSEN; JANSEN; Marcell; JANSEN;04-nov.-85; Hamburger SV; GER;190
+Germany;3; Defender; Arne FRIEDRICH; FRIEDRICH; Arne; FRIEDRICH;29-may.-79; Hertha Berlin; GER;185
+Germany;4; Defender; Dennis AOGO; AOGO; Dennis; AOGO;14-ene.-87; Hamburger SV; GER;184
+Germany;5; Defender; Serdar TASCI; TASCI; Serdar; TASCI;24-abr.-87; VfB Stuttgart; GER;186
+Germany;6; Midfielder; Sami KHEDIRA; KHEDIRA; Sami; KHEDIRA;04-abr.-87; VfB Stuttgart; GER;189
+Germany;7; Midfielder; Bastian SCHWEINSTEIGER; SCHWEINSTEIGER; Bastian; SCHWEINSTEIGER;01-ago.-84; Bayern Munich; GER;180
+Germany;8; Midfielder; Mesut OEZIL; ÖZIL; Mesut; ÖZIL;15-oct.-88; Werder Bremen; GER;182
+Germany;9; Forward; Stefan KIESSLING; KIESSLING; Stefan; KIESSLING;25-ene.-84; Bayer Leverkusen; GER;191
+Germany;10; Forward; Lukas PODOLSKI; PODOLSKI; Lukas Josef; PODOLSKI;04-jun.-85; FC Cologne; GER;180
+Germany;11; Forward; Miroslav KLOSE; KLOSE; Miroslaw Josef; KLOSE;09-jun.-78; Bayern Munich; GER;182
+Germany;12; Goalkeeper; Tim WIESE; WIESE; Tim; WIESE;17-dic.-81; Werder Bremen; GER;193
+Germany;13; Midfielder; Thomas MUELLER; MÜLLER; Thomas; MÜLLER;13-sep.-89; Bayern Munich; GER;186
+Germany;14; Defender; Holger BADSTUBER; BADSTUBER; Holger; BADSTUBER;13-mar.-89; Bayern Munich; GER;190
+Germany;15; Midfielder; Piotr TROCHOWSKI; TROCHOWSKI; Piotr Artur; TROCHOWSKI;22-mar.-84; Hamburger SV; GER;168
+Germany;16; Defender; Philipp LAHM; LAHM; Philipp; LAHM;11-nov.-83; Bayern Munich; GER;170
+Germany;17; Defender; Per MERTESACKER; MERTESACKER; Per; MERTESACKER;29-sep.-84; Werder Bremen; GER;196
+Germany;18; Midfielder; Toni KROOS; KROOS; Toni; KROOS;04-ene.-90; Bayer Leverkusen; GER;180
+Germany;19; Forward; CACAU; BARRETO; Claudemir Jeronimo; CACAU;27-mar.-81; VfB Stuttgart; GER;180
+Germany;20; Defender; Jerome BOATENG; BOATENG; Jerome; BOATENG;03-sep.-88; Hamburger SV; GER;192
+Germany;21; Midfielder; Marko MARIN; MARIN; Marko; MARIN;13-mar.-89; Werder Bremen; GER;169
+Germany;22; Goalkeeper; Hans Joerg BUTT; BUTT; Hans Jörg; BUTT;28-may.-74; Bayern Munich; GER;191
+Germany;23; Forward; Mario GOMEZ; GOMEZ GARCIA; Mario; GOMEZ;10-jul.-85; Bayern Munich; GER;189
+Ghana;1; Goalkeeper; Daniel AGYEI; AGYEI; Daniel; AGYEI;10-nov.-89; Liberty; GHA;186
+Ghana;2; Defender; Hans SARPEI; SARPEI; Hans Adu; SARPEI;28-jun.-76; Bayer Leverkusen; GER;178
+Ghana;3; Forward; Asamoah GYAN; GYAN; Asamoah; A. GYAN;22-nov.-85; Rennes; FRA;186
+Ghana;4; Defender; John PANTSIL; PANTSIL; John; PANTSIL;15-jun.-81; Fulham; ENG;178
+Ghana;5; Defender; John MENSAH; MENSAH; John; MENSAH;29-nov.-82; Sunderland; ENG;177
+Ghana;6; Midfielder; Anthony ANNAN; ANNAN; Anthony; ANNAN;21-jul.-86; Rosenborg; NOR;171
+Ghana;7; Defender; Samuel INKOOM; INKOOM; Samuel; INKOOM;01-jun.-89; Basel; SUI;179
+Ghana;8; Defender; Jonathan MENSAH; MENSAH; Jonathan; JONATHAN;13-jul.-90; Free State Stars; RSA;182
+Ghana;9; Midfielder; Derek BOATENG; BOATENG; Derek Owusu; D. BOATENG;02-may.-83; Getafe; ESP;185
+Ghana;10; Midfielder; Stephen APPIAH; APPIAH; Stephen; S. APPIAH;24-dic.-80; Bologna; ITA;178
+Ghana;11; Midfielder; Sulley MUNTARI; MUNTARI; Sulley Ali; MUNTARI;27-ago.-84; Inter; ITA;180
+Ghana;12; Forward; Prince TAGOE; TAGOE; Prince; TAGOE;09-nov.-86; Hoffenheim; GER;179
+Ghana;13; Midfielder; Andre AYEW; AYEW; Andre Morgan Rami; A. AYEW;17-dic.-89; Arles; FRA;175
+Ghana;14; Forward; Matthew AMOAH; AMOAH; Matthew; AMOAH;24-oct.-80; NAC Breda; NED;175
+Ghana;15; Defender; Isaac VORSAH; VORSAH; Isaac; VORSAH;21-jun.-88; Hoffenheim; GER;180
+Ghana;16; Goalkeeper; Stephen AHORLU; AHORLU; Stephen; AHORLU;05-sep.-88; Heart of Lions; GHA;179
+Ghana;17; Defender; Ibrahim AYEW; AYEW; Ibrahim; I. AYEW;16-abr.-88; Zamalek; EGY;176
+Ghana;18; Forward; Dominic ADIYIAH; ADIYIAH; Dominic; ADIYIAH;29-nov.-89; AC Milan; ITA;170
+Ghana;19; Defender; Lee ADDY; ADDY; Lee; ADDY;26-sep.-85; Bechem Chelsea; GHA;178
+Ghana;20; Forward; Quincy OWUSU-ABEYIE; OWUSU-ABEYIE; Quincy Jamie; OWUSU ABEYIE;15-abr.-86; Al Sadd; QAT;180
+Ghana;21; Midfielder; Kwadwo ASAMOAH; ASAMOAH; Kwadwo; K. ASAMOAH;09-dic.-88; Udinese; ITA;168
+Ghana;22; Goalkeeper; Richard KINGSON; KINGSON; Richard; KINGSON;13-jun.-78; Wigan; ENG;182
+Ghana;23; Forward; Kevin Prince BOATENG; BOATENG; Kevin Prince; PRINCE;06-mar.-87; Portsmouth; ENG;182
+Greece;1; Goalkeeper; Konstantinos CHALKIAS; CHALKIAS; Konstantinos; CHALKIAS;30-may.-74; PAOK; GRE;198
+Greece;2; Defender; Giourkas SEITARIDIS; SEITARIDIS; Georgios; GIOURKAS;04-jun.-81; Panathinaikos; GRE;185
+Greece;3; Defender; Christos PATSATZOGLOU; PATSATZOGLOU; Christos; PATSA;19-mar.-79; Omonia; CYP;183
+Greece;4; Defender; Nikos SPIROPOULOS; SPYROPOULOS; Nikolaos; SPYROPOULOS;10-oct.-83; Panathinaikos; GRE;171
+Greece;5; Defender; Vangelis MORAS; MORAS; Evangelos; MORAS;26-ago.-81; Bologna; ITA;193
+Greece;6; Midfielder; Alexandros TZIOLIS; TZIOLIS; Alexandros; TZIOLIS;13-feb.-85; Siena; ITA;190
+Greece;7; Forward; Georgios SAMARAS; SAMARAS; Georgios; SAMARAS;21-feb.-85; Celtic; SCO;192
+Greece;8; Defender; Avraam PAPADOPOULOS; PAPADOPOULOS; Avraam; PAPADOPOULOS;03-dic.-84; Olympiacos; GRE;186
+Greece;9; Forward; Angelos CHARISTEAS; CHARISTEAS; Angelos; CHARISTEAS;09-feb.-80; Nuremberg; GER;191
+Greece;10; Midfielder; Georgios KARAGOUNIS; KARAGKOUNIS; Georgios; KARAGOUNIS;06-mar.-77; Panathinaikos; GRE;176
+Greece;11; Defender; Loukas VYNTRA; VYNTRA; Loukas; VYNTRA;05-feb.-81; Panathinaikos; GRE;184
+Greece;12; Goalkeeper; Alexandros TZORVAS; TZORVAS; Alexandros; TZORVAS;12-ago.-82; Panathinaikos; GRE;190
+Greece;13; Goalkeeper; Michail SIFAKIS; SIFAKIS; Michail; SIFAKIS;09-sep.-84; Aris Thessaloniki; GRE;186
+Greece;14; Forward; Dimitrios SALPINGIDIS; SALPINGIDIS; Dimitrios; SALPINGIDIS;18-ago.-81; Panathinaikos; GRE;171
+Greece;15; Defender; Vasileios TOROSIDIS; TOROSIDIS; Vasileios; TOROSIDIS;10-jun.-85; Olympiacos; GRE;185
+Greece;16; Defender; Sotirios KYRGIAKOS; KYRGIAKOS; Sotirios; KYRGIAKOS;23-jul.-79; Liverpool; ENG;192
+Greece;17; Forward; Theofanis GEKAS; GKEKAS; Theofanis; GEKAS;23-may.-80; Hertha Berlin; GER;179
+Greece;18; Midfielder; Sotiris NINIS; NINIS; Sotiris; NINIS;03-abr.-90; Panathinaikos; GRE;173
+Greece;19; Defender; Sokratis PAPASTATHOPOULOS; PAPASTATHOPOULOS; Sokratis; SOKRATIS;09-jun.-88; Genoa; ITA;186
+Greece;20; Forward; Pantelis KAPETANOS; KAPETANOS; Pantelis; KAPETANOS;08-jun.-83; Steaua; ROU;190
+Greece;21; Midfielder; Konstantinos KATSOURANIS; KATSOURANIS; Konstantinos; KATSOURANIS;21-jun.-79; Panathinaikos; GRE;183
+Greece;22; Defender; Stelios MALEZAS; MALEZAS; Stylianos; MALEZAS;11-mar.-85; PAOK; GRE;192
+Greece;23; Midfielder; Athanasios PRITTAS; PRITTAS; Athanasios; PRITTAS;09-ene.-79; Aris Thessaloniki; GRE;185
+Honduras;1; Goalkeeper; Ricardo CANALES; CANALES LANZA; Ricardo Gabriel; CANALES;30-may.-82; Motagua; HON;180
+Honduras;2; Defender; Osman CHAVEZ; CHAVEZ GUITY; Osman Danilo; CHAVEZ;29-jul.-84; Platense; HON;187
+Honduras;3; Defender; Maynor FIGUEROA; FIGUEROA ROCHEZ; Maynor Alexis; FIGUEROA;02-may.-83; Wigan; ENG;182
+Honduras;4; Defender; Jhony PALACIOS; PALACIOS CACHO; Jhony Eulogio; J. PALACIOS;20-dic.-86; Olimpia Tegucigalpa; HON;182
+Honduras;5; Defender; Victor BERNARDEZ; BERNARDEZ BLANCO; Victor Salvador; BERNARDEZ;24-may.-82; Anderlecht; BEL;187
+Honduras;6; Midfielder; Hendry THOMAS; THOMAS SUAZO; Hendry Bernardo; THOMAS;23-feb.-85; Wigan; ENG;180
+Honduras;7; Midfielder; Ramon NUNEZ; NUNEZ; Ramon Fernando; NUÑEZ;14-nov.-85; Olimpia Tegucigalpa; HON;169
+Honduras;8; Midfielder; Wilson PALACIOS; PALACIOS SUAZO; Wilson Roberto; W. PALACIOS;29-jul.-84; Tottenham Hotspur; ENG;176
+Honduras;9; Forward; Carlos PAVON; PLUMMER PAVON; Carlos Alberto; PAVON;09-oct.-73; Real Espana; HON;180
+Honduras;10; Midfielder; Julio Cesar DE LEON; DE LEON DAILEY; Julio Cesar; LEON;13-sep.-79; Torino; ITA;170
+Honduras;11; Forward; David SUAZO; SUAZO VELASQUEZ; Oscar David; SUAZO;05-nov.-79; Genoa; ITA;183
+Honduras;12; Forward; George WELCOME; WELCOME COLLINS; George Wilson; WELCOME;09-mar.-85; Motagua; HON;192
+Honduras;13; Forward; Roger ESPINOZA; ESPINOZA RAMIREZ; Roger Anibal; ESPINOZA;25-oct.-86; Kansas City Wizards; USA;178
+Honduras;14; Defender; Oscar GARCIA; GARCIA RAMIREZ; Oscar Boniek; GARCIA;04-sep.-84; Olimpia Tegucigalpa; HON;176
+Honduras;15; Forward; Walter MARTINEZ; MARTINEZ RAMOS; Walter Julian; MARTINEZ;24-mar.-82; Marathon; HON;166
+Honduras;16; Defender; Mauricio SABILLON; SABILLON PEÑA; Mauricio Alberto; SABILLON;11-nov.-78; Hangzhou Greentown; CHN;180
+Honduras;17; Midfielder; Edgar ALVAREZ; ALVAREZ REYES; Edgar Anthony; ALVAREZ;18-ene.-80; Bari; ITA;170
+Honduras;18; Goalkeeper; Noel VALLADARES; VALLADARES BONILLA; Noel Eduardo; VALLADARES;03-may.-77; Olimpia Tegucigalpa; HON;179
+Honduras;19; Midfielder; Danilo TURCIOS; TURCIOS FUNEZ; Elvis Danilo; TURCIOS;08-may.-78; Olimpia Tegucigalpa; HON;166
+Honduras;20; Midfielder; Amado GUEVARA; GUEVARA; Amado; GUEVARRA;02-may.-76; Motagua; HON;176
+Honduras;21; Defender; Emilio IZAGUIRRE; IZAGUIRRE GIRON; Emilio Arturo; IZAGUIRRE;10-may.-86; Motagua; HON;178
+Honduras;22; Goalkeeper; Donis ESCOBER; ESCOBER IZAGUIRRE; Donis Salatiel; ESCOBER;03-feb.-81; Olimpia Tegucigalpa; HON;180
+Honduras;23; Defender; Sergio MENDOZA; MENDOZA ESCOBAR; Sergio Giovany; MENDOZA;23-may.-81; Motagua; HON;177
+Italy;1; Goalkeeper; Gianluigi BUFFON; BUFFON; Gianluigi; BUFFON;28-ene.-78; Juventus; ITA;190
+Italy;2; Defender; Christian MAGGIO; MAGGIO; Christian; MAGGIO;11-feb.-82; Napoli; ITA;184
+Italy;3; Defender; Domenico CRISCITO; CRISCITO; Domenico; CRISCITO;30-dic.-86; Genoa; ITA;175
+Italy;4; Defender; Giorgio CHIELLINI; CHIELLINI; Giorgio; CHIELLINI;14-ago.-84; Juventus; ITA;192
+Italy;5; Defender; Fabio CANNAVARO; CANNAVARO; Fabio; CANNAVARO;13-sep.-73; Juventus; ITA;175
+Italy;6; Midfielder; Daniele DE ROSSI; DE ROSSI; Daniele; DE ROSSI;24-jul.-83; AS Roma; ITA;182
+Italy;7; Midfielder; Simone PEPE; PEPE; Simone; PEPE;30-ago.-83; Udinese; ITA;179
+Italy;8; Midfielder; Gennaro GATTUSO; GATTUSO; Gennaro Ivan; GATTUSO;09-ene.-78; AC Milan; ITA;177
+Italy;9; Forward; Vincenzo IAQUINTA; IAQUINTA; Vincenzo; IAQUINTA;21-nov.-79; Juventus; ITA;186
+Italy;10; Forward; Antonio DI NATALE; DI NATALE; Antonio; DI NATALE;13-oct.-77; Udinese; ITA;170
+Italy;11; Forward; Alberto GILARDINO; GILARDINO; Alberto; GILARDINO;05-jul.-82; Fiorentina; ITA;184
+Italy;12; Goalkeeper; Federico MARCHETTI; MARCHETTI; Federico; MARCHETTI;07-feb.-83; Cagliari; ITA;188
+Italy;13; Defender; Salvatore BOCCHETTI; BOCCHETTI; Salvatore; BOCCHETTI;30-nov.-86; Genoa; ITA;178
+Italy;14; Goalkeeper; Morgan DE SANCTIS; DE SANCTIS; Morgan; DE SANCTIS;26-mar.-77; Napoli; ITA;190
+Italy;15; Midfielder; Claudio MARCHISIO; MARCHISIO; Claudio; MARCHISIO;19-ene.-86; Juventus; ITA;179
+Italy;16; Midfielder; Mauro CAMORANESI; CAMORANESI; Mauro German; CAMORANESI;04-oct.-76; Juventus; ITA;174
+Italy;17; Midfielder; Angelo PALOMBO; PALOMBO; Angelo; PALOMBO;25-sep.-81; Sampdoria; ITA;177
+Italy;18; Forward; Fabio QUAGLIARELLA; QUAGLIARELLA; Fabio; QUAGLIARELLA;31-ene.-83; Napoli; ITA;180
+Italy;19; Defender; Gianluca ZAMBROTTA; ZAMBROTTA; Gianluca; ZAMBROTTA;19-feb.-77; AC Milan; ITA;181
+Italy;20; Forward; Giampaolo PAZZINI; PAZZINI; Giampaolo; PAZZINI;02-ago.-84; Sampdoria; ITA;180
+Italy;21; Midfielder; Andrea PIRLO; PIRLO; Andrea; PIRLO;19-may.-79; AC Milan; ITA;177
+Italy;22; Midfielder; Riccardo MONTOLIVO; MONTOLIVO; Riccardo; MONTOLIVO;18-ene.-85; Fiorentina; ITA;181
+Italy;23; Defender; Leonardo BONUCCI; BONUCCI; Leonardo; BONUCCI;01-may.-87; Bari; ITA;190
+Japan;1; Goalkeeper; Seigo NARAZAKI; NARAZAKI; Seigo; NARAZAKI;15-abr.-76; Nagoya Grampus Eight; JPN;187
+Japan;2; Midfielder; Yuki ABE; ABE; Yuki; ABE;06-sep.-81; Urawa Reds; JPN;177
+Japan;3; Defender; Yuichi KOMANO; KOMANO; Yuichi; KOMANO;25-jul.-81; Jubilo Iwata; JPN;172
+Japan;4; Defender; Marcus Tulio TANAKA; TANAKA; Marcus Tulio Lyuji Murzani; TULIO;24-abr.-81; Nagoya Grampus Eight; JPN;185
+Japan;5; Defender; Yuto NAGATOMO; NAGATOMO; Yuto; NAGATOMO;12-sep.-86; FC Tokyo; JPN;170
+Japan;6; Defender; Atsuto UCHIDA; UCHIDA; Atsuto; UCHIDA;27-mar.-88; Kashima Antlers; JPN;176
+Japan;7; Midfielder; Yasuhito ENDO; ENDO; Yasuhito; ENDO;28-ene.-80; Gamba Osaka; JPN;178
+Japan;8; Midfielder; Daisuke MATSUI; MATSUI; Daisuke; MATSUI;11-may.-81; Grenoble; FRA;175
+Japan;9; Forward; Shinji OKAZAKI; OKAZAKI; Shinji; OKAZAKI;16-abr.-86; Shimizu S-Pulse; JPN;174
+Japan;10; Midfielder; Shunsuke NAKAMURA; NAKAMURA; Shunsuke; NAKAMURA;24-jun.-78; Yokohama F Marinos; JPN;178
+Japan;11; Forward; Keiji TAMADA; TAMADA; Keiji; TAMADA;11-abr.-80; Nagoya Grampus Eight; JPN;173
+Japan;12; Forward; Kisho YANO; YANO; Kisho; YANO;05-abr.-84; Albirex Niigata; JPN;185
+Japan;13; Defender; Daiki IWAMASA; IWAMASA; Daiki; IWAMASA;30-ene.-82; Kashima Antlers; JPN;187
+Japan;14; Midfielder; Kengo NAKAMURA; NAKAMURA; Kengo; NAKAMURA;31-oct.-80; Kawasaki Frontale; JPN;175
+Japan;15; Defender; Yasuyuki KONNO; KONNO; Yasuyuki; KONNO;25-ene.-83; FC Tokyo; JPN;178
+Japan;16; Forward; Yoshito OKUBO; OKUBO; Yoshito; OKUBO;09-jun.-82; Vissel Kobe; JPN;170
+Japan;17; Midfielder; Makoto HASEBE; HASEBE; Makoto; HASEBE;18-ene.-84; Wolfsburg; GER;177
+Japan;18; Midfielder; Keisuke HONDA; HONDA; Keisuke; HONDA;13-jun.-86; CSKA Moscow; RUS;182
+Japan;19; Forward; Takayuki MORIMOTO; MORIMOTO; Takayuki; MORIMOTO;07-may.-88; Catania; ITA;180
+Japan;20; Midfielder; Junichi INAMOTO; INAMOTO; Junichi; INAMOTO;18-sep.-79; Kawasaki Frontale; JPN;181
+Japan;21; Goalkeeper; Eiji KAWASHIMA; KAWASHIMA; Eiji; KAWASHIMA;20-mar.-83; Kawasaki Frontale; JPN;185
+Japan;22; Defender; Yuji NAKAZAWA; NAKAZAWA; Yuji; NAKAZAWA;25-feb.-78; Yokohama F Marinos; JPN;187
+Japan;23; Goalkeeper; Yoshikatsu KAWAGUCHI; KAWAGUCHI; Yoshikatsu; KAWAGUCHI;15-ago.-75; Jubilo Iwata; JPN;180
+Korea DPR;1; Goalkeeper; RI Myong Guk; RI; Myong Guk; R. MYONG GUK;09-sep.-86; Pyongyang City; PRK;187
+Korea DPR;2; Defender; CHA Jong Hyok; CHA; Jong Hyok; C. JONG HYOK;25-sep.-85; Amrokgang; PRK;178
+Korea DPR;3; Defender; RI Jun Il; RI; Jun Il; R. JUN IL;24-ago.-87; Sobaeksu; PRK;178
+Korea DPR;4; Midfielder; PAK Nam Chol; PAK; Nam Chol; P. NAM CHOL;02-jul.-85;25-abr.; PRK;172
+Korea DPR;5; Defender; RI Kwang Chon; RI; Kwang Chon; R. KWANG CHON;04-sep.-85;25-abr.; PRK;183
+Korea DPR;6; Midfielder; KIM Kum Il; KIM; Kum Il; K. KUM IL;10-oct.-87;25-abr.; PRK;170
+Korea DPR;7; Forward; AN Chol Hyok; AN; Chol Hyok; A. CHOL HYOK;27-jun.-87; Rimyongsu; PRK;178
+Korea DPR;8; Defender; JI Yun Nam; JI; Yun Nam; J. YUN NAM;20-nov.-76;25-abr.; PRK;172
+Korea DPR;9; Defender; JONG Tae Se; JONG; Tae Se; J. TAE SE;02-mar.-84; Kawasaki Frontale; JPN;181
+Korea DPR;10; Forward; HONG Yong Jo; HONG; Yong Jo; H. YONG JO;22-may.-82; FK Rostov; RUS;174
+Korea DPR;11; Midfielder; MUN In Guk; MUN; In Guk; M. IN GUK;29-sep.-78;25-abr.; PRK;167
+Korea DPR;12; Forward; CHOE Kum Chol; CHOE; Kum Chol; C. KUM CHOL;09-feb.-87;25-abr.; PRK;178
+Korea DPR;13; Defender; PAK Chol Jin; PAK; Chol Jin; P. CHOL JIN;05-sep.-85; Amrokgang; PRK;184
+Korea DPR;14; Defender; PAK Nam Chol; PAK; Nam Chol; P. NAM CHOL;03-oct.-88; Amrokgang; PRK;183
+Korea DPR;15; Midfielder; KIM Yong Jun; KIM; Yong Jun; K. YONG JUN;19-jul.-83; Pyongyang City; PRK;182
+Korea DPR;16; Defender; NAM Song Chol; NAM; Song Chol; N. SONG CHOL;07-may.-82;25-abr.; PRK;178
+Korea DPR;17; Midfielder; AN Yong Hak; AN; Yong Hak; A. YONG HAK;25-oct.-78; Omiya Ardija; JPN;182
+Korea DPR;18; Goalkeeper; KIM Myong Gil; KIM; Myong Gil; K. MYONG GIL;16-oct.-84; Amrokgang; PRK;181
+Korea DPR;19; Midfielder; RI Chol Myong; RI; Chol Myong; R. CHOL MYONG;18-feb.-88; Pyongyang City; PRK;173
+Korea DPR;20; Goalkeeper; KIM Myong Won; KIM; Myong Won; K. MYONG WON;15-jul.-83; Amrokgang; PRK;180
+Korea DPR;21; Defender; RI Kwang Hyok; RI; Kwang Hyok; R. KWANG HYOK;17-ago.-87; Kyonggongop; PRK;178
+Korea DPR;22; Midfielder; KIM Kyong Il; KIM; Kyong Il; K. KYONG IL;11-dic.-88; Rimyongsu; PRK;174
+Korea DPR;23; Midfielder; PAK Sung Hyok; PAK; Sung Hyok; P. SUNG HYOK;30-may.-90; Sobaeksu; PRK;175
+Korea Republic;1; Goalkeeper; LEE Woon Jae; LEE; Woon Jae; WOONJAE;26-abr.-73; Suwon Bluewings; KOR;182
+Korea Republic;2; Defender; OH Beom Seok; OH; Beom Seok; BEOMSEOK;29-jul.-84; Ulsan Hyundai; KOR;181
+Korea Republic;3; Defender; KIM Hyung Il; KIM; Hyung Il; HYUNGIL;27-abr.-84; Pohang Steelers; KOR;187
+Korea Republic;4; Defender; CHO Yong Hyung; CHO; Yong Hyung; YONGHYUNG;03-nov.-83; Jeju Utd.; KOR;182
+Korea Republic;5; Midfielder; KIM Nam Il; KIM; Nam Il; NAMIL;14-mar.-77; Tom Tomsk; RUS;180
+Korea Republic;6; Midfielder; KIM Bo Kyung; KIM; Bo Kyung; BOKYUNG;06-oct.-89; Oita Trinita; JPN;178
+Korea Republic;7; Midfielder; PARK Ji Sung; PARK; Ji Sung; JISUNG;25-feb.-81; Manchester Utd.; ENG;178
+Korea Republic;8; Midfielder; KIM Jung Woo; KIM; Jung Woo; JUNGWOO;09-may.-82; Gwangju Sangmu; KOR;183
+Korea Republic;9; Forward; AHN Jung Hwan; AHN; Jung Hwan; JUNGHWAN;27-ene.-76; Dalian Shide; CHN;177
+Korea Republic;10; Forward; PARK Chu Young; PARK; Chu Young; CHUYOUNG;10-jul.-85; Monaco; FRA;183
+Korea Republic;11; Forward; LEE Seung Yeoul; LEE; Seung Yeoul; SEUNGYEOUL;06-mar.-89; FC Seoul; KOR;183
+Korea Republic;12; Defender; LEE Young Pyo; LEE; Young Pyo; YOUNGPYO;23-abr.-77; Al Hilal; KSA;177
+Korea Republic;13; Midfielder; KIM Jae Sung; KIM; Jae Sung; JAESUNG;03-oct.-83; Pohang Steelers; KOR;180
+Korea Republic;14; Defender; LEE Jung Soo; LEE; Jung Soo; JUNGSOO;08-ene.-80; Kashima Antlers; JPN;185
+Korea Republic;15; Defender; KIM Dong Jin; KIM; Dong Jin; DONGJIN;29-ene.-82; Ulsan Hyundai; KOR;184
+Korea Republic;16; Midfielder; KI Sung Yueng; KI; Sung Yueng; SUNGYUENG;24-ene.-89; Celtic; SCO;187
+Korea Republic;17; Midfielder; LEE Chung Yong; LEE; Chung Yong; CHUNGYONG;02-jul.-88; Bolton Wanderers; ENG;180
+Korea Republic;18; Goalkeeper; JUNG Sung Ryong; JUNG; Sung Ryong; SUNGRYONG;04-ene.-85; Seongnam Ilhwa Chunma; KOR;190
+Korea Republic;19; Midfielder; YEOM Ki Hun; YEOM; Ki Hun; KIHUN;30-mar.-83; Suwon Bluewings; KOR;182
+Korea Republic;20; Forward; LEE Dong Gook; LEE; Dong Gook; DONGGOOK;29-abr.-79; Jeonbuk Motors; KOR;187
+Korea Republic;21; Goalkeeper; KIM Young Kwang; KIM; Young Kwang; YOUNGKWANG;28-jun.-83; Ulsan Hyundai; KOR;184
+Korea Republic;22; Defender; CHA Du Ri; CHA; Du Ri; DURI;25-jul.-80; SC Freiburg; GER;181
+Korea Republic;23; Defender; KANG Min Soo; KANG; Min Soo; MINSOO;14-feb.-86; Suwon Bluewings; KOR;186
+Mexico;1; Goalkeeper; Oscar PEREZ; PEREZ ROJAS; Oscar; O PEREZ;01-feb.-73; Jaguares; MEX;174
+Mexico;2; Defender; Francisco RODRIGUEZ; RODRIGUEZ PINEDO; Francisco Javier; F RODRIGUEZ;20-oct.-81; PSV Eindhoven; NED;191
+Mexico;3; Defender; Carlos SALCIDO; SALCIDO FLORES; Carlos Arnoldo; C SALCIDO;02-abr.-80; PSV Eindhoven; NED;176
+Mexico;4; Defender; Rafael MARQUEZ; MÁRQUEZ ALVAREZ; Rafael; R MARQUEZ;13-feb.-79; Barcelona; ESP;182
+Mexico;5; Defender; Ricardo OSORIO; OSORIO MENDOZA; Ricardo; R OSORIO;30-mar.-80; VfB Stuttgart; GER;173
+Mexico;6; Midfielder; Gerardo TORRADO; TORRADO DIEZ DE BONILLA; Gerardo; G TORRADO;30-abr.-79; Cruz Azul; MEX;174
+Mexico;7; Forward; Pablo BARRERA; BARRERA ACOSTA; Pablo Edson; P BARRERA;21-jun.-87; Pumas UNAM; MEX;172
+Mexico;8; Midfielder; Israel CASTRO; CASTRO MARCIAS; Israel; I CASTRO;20-dic.-80; Pumas UNAM; MEX;175
+Mexico;9; Forward; Guillermo FRANCO; FRANCO FARQUARSON; Guillermo Luis; G FRANCO;03-nov.-76; West Ham Utd.; ENG;182
+Mexico;10; Forward; Cuauhtemoc BLANCO; BLANCO BRAVO; Cuauhtemoc; C BLANCO;17-ene.-73; Veracruz; MEX;177
+Mexico;11; Forward; Carlos VELA; VELA GARRIDO; Carlos Alberto; C VELA;01-mar.-89; Arsenal; ENG;179
+Mexico;12; Defender; Paul AGUILAR; AGUILAR ROJAS; Paul Nicolas; P AGUILAR;06-mar.-86; Pachuca; MEX;178
+Mexico;13; Goalkeeper; Guillermo OCHOA; OCHOA MAGAÑA; Francisco Guillermo; G OCHOA;13-jul.-85; America; MEX;183
+Mexico;14; Forward; Javier HERNANDEZ; HERNANDEZ BALCAZAR; Javier; J HERNANDEZ;01-jun.-88; Chivas; MEX;175
+Mexico;15; Defender; Hector MORENO; MORENO HERRERA; Hector Alfredo; H MORENO;17-ene.-88; AZ Alkmaar; NED;184
+Mexico;16; Defender; Efrain JUAREZ; JUAREZ VALDEZ; Efrain; E JUAREZ;22-feb.-88; Pumas UNAM; MEX;175
+Mexico;17; Forward; Giovani DOS SANTOS; DOS SANTOS RAMIREZ; Giovani; G DOS SANTOS;11-may.-89; Galatasaray; TUR;175
+Mexico;18; Midfielder; Andres GUARDADO; GUARDADO HERNANDEZ; José Andrés; A GUARDADO;28-sep.-86; Deportivo La Coruna; ESP;169
+Mexico;19; Defender; Jonny MAGALLON; MAGALLON OLIVA; Jose Jonny; J MAGALLON;21-nov.-81; Chivas; MEX;178
+Mexico;20; Midfielder; Jorge TORRES; TORRES NILO; Jorge Emmanuel; J TORRES;16-ene.-88; Atlas; MEX;182
+Mexico;21; Forward; Adolfo BAUTISTA; BAUTISTA HERRERA; Adolfo; A BAUTISTA;15-may.-79; Chivas; MEX;185
+Mexico;22; Forward; Alberto MEDINA; MEDINA BRISENO; Alberto; A MEDINA;29-may.-83; Chivas; MEX;172
+Mexico;23; Goalkeeper; Luis MICHEL; MICHEL VERGARA; Luis Ernesto; L MICHEL;21-jul.-79; Chivas; MEX;183
+Netherlands;1; Goalkeeper; Maarten STEKELENBURG; STEKELENBURG; Maarten; STEKELENBURG;22-sep.-82; Ajax; NED;197
+Netherlands;2; Defender; Gregory VAN DER WIEL; VAN DER WIEL; Gregory Kurtley; VAN DER WIEL;03-feb.-88; Ajax; NED;180
+Netherlands;3; Defender; John HEITINGA; HEITINGA; John Gijsbert Alan; HEITINGA;15-nov.-83; Everton; ENG;182
+Netherlands;4; Defender; Joris MATHIJSEN; MATHIJSEN; Joris; MATHIJSEN;05-abr.-80; Hamburger SV; GER;182
+Netherlands;5; Defender; Giovanni VAN BRONCKHORST; VAN BRONCKHORST; Giovanni Christiaan; V. BRONCKHORST;05-feb.-75; Feyenoord; NED;176
+Netherlands;6; Midfielder; Mark VAN BOMMEL; VAN BOMMEL; Mark Peter Gertruda Andreas; V. BOMMEL;22-abr.-77; Bayern Munich; GER;187
+Netherlands;7; Forward; Dirk KUYT; KUIJT; Dirk; KUYT;22-jul.-80; Liverpool; ENG;183
+Netherlands;8; Midfielder; Nigel DE JONG; DE JONG; Nigel; DE JONG;30-nov.-84; Manchester City; ENG;174
+Netherlands;9; Forward; Robin VAN PERSIE; VAN PERSIE; Robin; V. PERSIE;06-ago.-83; Arsenal; ENG;184
+Netherlands;10; Midfielder; Wesley SNEIJDER; SNEIJDER; Wesley; SNEIJDER;09-jun.-84; Inter; ITA;170
+Netherlands;11; Forward; Arjen ROBBEN; ROBBEN; Arjen; ROBBEN;23-ene.-84; Bayern Munich; GER;180
+Netherlands;12; Defender; Khalid BOULAHROUZ; BOULAHROUZ; Khalid; BOULAHROUZ;28-dic.-81; VfB Stuttgart; GER;184
+Netherlands;13; Defender; Andre OOIJER; OOIJER; Andre Antonius Maria; OOIJER;11-jul.-74; PSV Eindhoven; NED;184
+Netherlands;14; Midfielder; Demy DE ZEEUW; DE ZEEUW; Demy Patrick René; DE ZEEUW;26-may.-83; Ajax; NED;174
+Netherlands;15; Defender; Edson BRAAFHEID; BRAAFHEID; Edson René; BRAAFHEID;08-abr.-83; Celtic; SCO;174
+Netherlands;16; Goalkeeper; Michel VORM; VORM; Michel; VORM;20-oct.-83; Utrecht; NED;182
+Netherlands;17; Forward; Eljero ELIA; ELIA; Eljero George Rinaldo; ELIA;13-feb.-87; Hamburger SV; GER;177
+Netherlands;18; Midfielder; Stijn SCHAARS; SCHAARS; Stephanus Johannes; SCHAARS;11-ene.-84; AZ Alkmaar; NED;178
+Netherlands;19; Forward; Ryan BABEL; BABEL; Ryan Guno; BABEL;19-dic.-86; Liverpool; ENG;185
+Netherlands;20; Midfielder; Ibrahim AFELLAY; AFELLAY; Ibrahim; AFELLAY;02-abr.-86; PSV Eindhoven; NED;184
+Netherlands;21; Forward; Klaas Jan HUNTELAAR; HUNTELAAR; Dirk Klaas Jan; HUNTELAAR;12-ago.-83; AC Milan; ITA;185
+Netherlands;22; Goalkeeper; Sander BOSCHKER; BOSCHKER; Sander Bernard Jozef; BOSCHKER;20-oct.-70; Twente Enschede; NED;185
+Netherlands;23; Midfielder; Rafael VAN DER VAART; VAN DER VAART; Rafael Ferdinand; VAN DER VAART;11-feb.-83; Real Madrid; ESP;178
+New Zealand;1; Goalkeeper; Mark PASTON; PASTON; Mark Nelson; PASTON;13-dic.-76; Wellington Phoenix; NZL;195
+New Zealand;2; Defender; Ben SIGMUND; SIGMUND; Benjamin Robert; SIGMUND;03-feb.-81; Wellington Phoenix; NZL;187
+New Zealand;3; Defender; Tony LOCHHEAD; LOCHHEAD; Tony James; LOCHHEAD;12-ene.-82; Wellington Phoenix; NZL;183
+New Zealand;4; Defender; Winston REID; REID; Winston Wiremu; REID;03-jul.-88; Midtjylland; DEN;190
+New Zealand;5; Defender; Ivan VICELICH; VICELICH; Ivan Robert; VICELICH;03-sep.-76; Auckland City; NZL;193
+New Zealand;6; Defender; Ryan NELSEN; NELSEN; Ryan William; NELSEN;18-oct.-77; Blackburn Rovers; ENG;185
+New Zealand;7; Midfielder; Simon ELLIOTT; ELLIOTT; Simon John; ELLIOTT;10-jun.-74; No club affiliation; UNK;180
+New Zealand;8; Midfielder; Tim BROWN; BROWN; Timothy Oliver; BROWN;06-mar.-81; Wellington Phoenix; NZL;185
+New Zealand;9; Forward; Shane SMELTZ; SMELTZ; Shane Edward; SMELTZ;29-sep.-81; Gold Coast United; AUS;184
+New Zealand;10; Forward; Chris KILLEN; KILLEN; Christopher John; KILLEN;08-oct.-81; Middlesbrough; ENG;188
+New Zealand;11; Midfielder; Leo BERTOS; BERTOS; Leonidas Christos; BERTOS;20-dic.-81; Wellington Phoenix; NZL;177
+New Zealand;12; Goalkeeper; Glen MOSS; MOSS; Glen Robert; MOSS;19-ene.-83; Melbourne Victory; AUS;188
+New Zealand;13; Midfielder; Andy BARRON; BARRON; Andrew; BARRON;24-dic.-80; Team Wellington; NZL;178
+New Zealand;14; Forward; Rory FALLON; FALLON; Rory Micheal; FALLON;20-mar.-82; Plymouth Argyle; ENG;191
+New Zealand;15; Midfielder; Michael McGLINCHEY; MC GLINCHEY; Michael Ryan; MCGLINCHEY;07-ene.-87; Motherwell; SCO;173
+New Zealand;16; Midfielder; Aaron CLAPHAM; CLAPHAM; Aaron Daniel; CLAPHAM;15-ene.-87; Canterbury Utd.; NZL;172
+New Zealand;17; Midfielder; Dave MULLIGAN; MULLIGAN; David James; MULLIGAN;24-mar.-82; No club affiliation; UNK;173
+New Zealand;18; Defender; Andy BOYENS; BOYENS; Andrew Victor; BOYENS;18-sep.-83; New York Red Bulls; USA;192
+New Zealand;19; Defender; Tommy SMITH; SMITH; Thomas Jefferson; SMITH;31-mar.-90; Ipswich Town; ENG;187
+New Zealand;20; Forward; Chris WOOD; WOOD; Christopher Grant; WOOD;07-dic.-91; West Bromwich Albion; ENG;191
+New Zealand;21; Midfielder; Jeremy CHRISTIE; CHRISTIE; Jeremy John; CHRISTIE;22-may.-83; Tampa Bay; USA;180
+New Zealand;22; Forward; Jeremy BROCKIE; BROCKIE; Jeremy Russell; BROCKIE;07-oct.-87; Newcastle United Jets; AUS;182
+New Zealand;23; Goalkeeper; James BANNATYNE; BANNATYNE; James Alexander; BANNATYNE;30-jun.-75; Team Wellington; NZL;195
+Nigeria;1; Goalkeeper; Vincent ENYEAMA; ENYEAMA; Vincent; ENYEAMA;29-ago.-82; Hapoel Tel-Aviv; ISR;185
+Nigeria;2; Defender; Joseph YOBO; YOBO; Joseph; YOBO;06-sep.-80; Everton; ENG;185
+Nigeria;3; Defender; Taye TAIWO; ISMAILA TAIWO; Taye; TAIWO;16-abr.-85; Marseille; FRA;188
+Nigeria;4; Midfielder; Nwankwo KANU; KANU; Nwankwo; KANU;01-ago.-76; Portsmouth; ENG;197
+Nigeria;5; Defender; Rabiu AFOLABI; AFOLABI; Rabiu; AFOLABI;18-abr.-80; Red Bull Salzburg; AUT;183
+Nigeria;6; Defender; Danny SHITTU; SHITTU; Daniel Olusola; SHITTU;02-sep.-80; Bolton Wanderers; ENG;190
+Nigeria;7; Forward; John UTAKA; UTAKA; John Chukwudi; UTAKA;08-ene.-82; Portsmouth; ENG;179
+Nigeria;8; Forward; Yakubu AIYEGBENI; AIYEGBENI; Yakubu; YAKUBU;22-nov.-82; Everton; ENG;188
+Nigeria;9; Forward; Obafemi MARTINS; MARTINS; Obafemi Akinwunmi; MARTINS;28-oct.-84; Wolfsburg; GER;170
+Nigeria;10; Midfielder; John Obi MIKEL; MIKEL; John Obi; MIKEL;22-abr.-87; Chelsea; ENG;191
+Nigeria;11; Forward; Peter ODEMWINGIE; ODEMWINGIE; Peter Osaze; ODEMWINGIE;15-jul.-81; Lokomotiv Moscow; RUS;181
+Nigeria;12; Midfielder; Kalu UCHE; UCHE; Kalu; UCHE;15-nov.-82; Almeria; ESP;171
+Nigeria;13; Midfielder; Yussuf AYILA; AYILA; Yussuf Atanda; AYILA;04-nov.-84; Dynamo Kyiv; UKR;179
+Nigeria;14; Midfielder; Sani KAITA; KAITA; Sani Haruna; KAITA;02-may.-86; Alania Vladikavkaz; RUS;180
+Nigeria;15; Midfielder; Lukman HARUNA; HARUNA; Lukman; HARUNA;04-dic.-90; Monaco; FRA;177
+Nigeria;16; Goalkeeper; Austin EJIDE; EJIDE; Austine Amamchukwu; EJIDE;08-abr.-84; Hapoel Petah Tikva; ISR;186
+Nigeria;17; Defender; Chidi ODIAH; ODIAH; Chidi; ODIAH;17-dic.-83; CSKA Moscow; RUS;181
+Nigeria;18; Forward; Victor OBINNA; NSOFOR OBINNA; Victor; NSOFOR;25-mar.-87; Malaga; ESP;178
+Nigeria;19; Forward; Chinedu OGBUKE OBASI; OGBUKE OBASI; Chinedu; OBASI;01-jun.-86; Hoffenheim; GER;181
+Nigeria;20; Midfielder; Dickson ETUHU; ETUHU; Dickson; ETUHU;08-jun.-82; Fulham; ENG;191
+Nigeria;21; Defender; Uwa ECHIEJILE; ECHIEJILE; Elderson Uwa; ECHIEJILE;20-ene.-88; Rennes; FRA;198
+Nigeria;22; Defender; Dele ADELEYE; ADELEYE; Ayodele; ADELEYE;25-dic.-88; Sparta Rotterdam; NED;189
+Nigeria;23; Goalkeeper; Dele AIYENUGBA; AIYENUGBA; Dele; AIYENUGBA;20-nov.-83; Bnei Yehuda; ISR;186
+Paraguay;1; Goalkeeper; Justo VILLAR; VILLAR VIVEROS; Justo Wilmar; J. VILLAR;30-jun.-77; Valladolid; ESP;180
+Paraguay;2; Defender; Dario VERON; VERON; Dario; VERON;26-jul.-79; Pumas UNAM; MEX;181
+Paraguay;3; Defender; Claudio MOREL; MOREL RODRIGUEZ; Claudio Marcelo; MOREL R.;02-feb.-78; Boca Juniors; ARG;175
+Paraguay;4; Defender; Denis CANIZA; CANIZA ACUNA; Denis Ramon; CANIZA;29-ago.-74; Leon; MEX;174
+Paraguay;5; Defender; Julio Cesar CACERES; CACERES LOPEZ; Julio Cesar; J. CACERES;05-oct.-79; Atletico Mineiro; BRA;181
+Paraguay;6; Midfielder; Carlos BONET; BONET CACERES; Carlos; BONET;02-oct.-77; Olimpia Asuncion; PAR;176
+Paraguay;7; Forward; Oscar CARDOZO; CARDOZO; Oscar Rene; CARDOZO;20-may.-83; Benfica; POR;192
+Paraguay;8; Midfielder; Edgar BARRETO; BARRETO CACERES; Edgar Osvaldo; E. BARRETO;15-jul.-84; Atalanta; ITA;178
+Paraguay;9; Forward; Roque SANTA CRUZ; SANTA CRUZ CANTERO; Roque; SANTA CRUZ;16-ago.-81; Manchester City; ENG;191
+Paraguay;10; Forward; Edgar BENITEZ; BENITEZ SANTANDER; Edgar; BENITEZ;08-nov.-87; Pachuca; MEX;176
+Paraguay;11; Midfielder; Jonathan SANTANA; SANTANA; Jonathan; SANTANA;19-oct.-81; Wolfsburg; GER;181
+Paraguay;12; Goalkeeper; Diego BARRETO; BARRETO CACERES; Diego Daniel; D. BARRETO;16-jul.-81; Cerro Porteno; PAR;182
+Paraguay;13; Midfielder; Enrique VERA; VERA; Enrique Daniel; VERA;10-mar.-79; Liga de Quito; ECU;178
+Paraguay;14; Defender; Paulo DA SILVA; DA SILVA; Paulo; DA SILVA;01-feb.-80; Sunderland; ENG;184
+Paraguay;15; Midfielder; Victor CACERES; CACERES; Victor; V. CACERES;25-mar.-85; Libertad; PAR;186
+Paraguay;16; Midfielder; Cristian RIVEROS; RIVEROS; Cristian; RIVEROS;16-oct.-82; Cruz Azul; MEX;179
+Paraguay;17; Defender; Aureliano TORRES; TORRES ROMAN; Aureliano; TORRES;16-jun.-82; San Lorenzo; ARG;178
+Paraguay;18; Forward; Nelson VALDEZ; HAEDO VALDEZ; Nelson Antonio; H. VALDEZ;28-nov.-83; Borussia Dortmund; GER;178
+Paraguay;19; Forward; Lucas BARRIOS; BARRIOS CÁCERES; Lucas Ramón; BARRIOS;13-nov.-84; Borussia Dortmund; GER;187
+Paraguay;20; Midfielder; Nestor ORTIGOZA; ORTIGOZA; Nestor Ezequiel; ORTIGOZA;07-oct.-84; Argentinos Juniors; ARG;180
+Paraguay;21; Defender; Antolin ALCARAZ; ALCARAZ VIVEROS; Antolin; ALCARAZ;30-jul.-82; Club Brugge; BEL;184
+Paraguay;22; Goalkeeper; Aldo BOBADILLA; BOBADILLA; Aldo Antonio; BOBADILLA;20-abr.-76; Independiente Medellin; COL;192
+Paraguay;23; Forward; Rodolfo GAMARRA; GAMARRA; Rodolfo; GAMARRA;10-dic.-88; Libertad; PAR;168
+Portugal;1; Goalkeeper; EDUARDO; REIS CARVALHO; Eduardo; EDUARDO;19-sep.-82; Braga; POR;187
+Portugal;2; Defender; BRUNO ALVES; REFUGE ALVES; Bruno Eduardo; BRUNO ALVES;27-nov.-81; Porto; POR;187
+Portugal;3; Defender; PAULO FERREIRA; REBOCHO FERREIRA; Paulo Renato; P. FERREIRA;18-ene.-79; Chelsea; ENG;181
+Portugal;4; Defender; ROLANDO; PIRES DA FONSECA; Rolando Jorge; ROLANDO;31-ago.-85; Porto; POR;189
+Portugal;5; Defender; DUDA; BARBOSA VALENTE; Sergio Paulo; DUDA;27-jun.-80; Malaga; ESP;175
+Portugal;6; Defender; RICARDO CARVALHO; SILVEIRA DE CARVALHO; Ricardo Alberto; R. CARVALHO;18-may.-78; Chelsea; ENG;183
+Portugal;7; Forward; CRISTIANO RONALDO; DOS SANTOS AVEIRO; Cristiano Ronaldo; RONALDO;05-feb.-85; Real Madrid; ESP;185
+Portugal;8; Midfielder; PEDRO MENDES; DA SILVA MENDES; Pedro Miguel; P. MENDES;26-feb.-79; Sporting Lisbon; POR;177
+Portugal;9; Forward; LIEDSON; DA SILVA MUNIZ; Liedson; LIEDSON;17-dic.-77; Sporting Lisbon; POR;173
+Portugal;10; Forward; DANNY; ALVES GOMES; Danny Miguel; DANNY;07-ago.-83; Zenit St Petersburg; RUS;179
+Portugal;11; Forward; SIMAO; DE FONSECA SABROSA; Simao Pedro; SIMÃO;31-oct.-79; Atletico Madrid; ESP;170
+Portugal;12; Goalkeeper; BETO; BASTOS PIMPAREL; Antonio Alberto; BETO;01-may.-82; Porto; POR;183
+Portugal;13; Defender; MIGUEL; BRITO GARCIA MONTEIRO; Luis Miguel; MIGUEL;04-ene.-80; Valencia; ESP;175
+Portugal;14; Midfielder; MIGUEL VELOSO; PINTO VELOSO; Miguel Luis; M. VELOSO;11-may.-86; Sporting Lisbon; POR;181
+Portugal;15; Midfielder; PEPE; LIMA FERREIRA; Kepler Laveran; PEPE;26-feb.-83; Real Madrid; ESP;186
+Portugal;16; Midfielder; RAUL MEIRELES; TRINDADE MEIRELES; Raul Jose; R. MEIRELES;17-mar.-83; Porto; POR;179
+Portugal;17; Forward; NANI; ALMEIDA DA CUNHA; Luís Carlos; NANI;17-nov.-86; Manchester Utd.; ENG;175
+Portugal;18; Forward; HUGO ALMEIDA; PEREIRA DE ALMEIDA; Hugo Miguel; H. ALMEIDA;23-may.-84; Werder Bremen; GER;193
+Portugal;19; Midfielder; TIAGO; CARDOSO MENDES; Tiago; TIAGO;02-may.-81; Atletico Madrid; ESP;183
+Portugal;20; Midfielder; DECO; DE SOUZA; Anderson Luis; DECO;27-ago.-77; Chelsea; ENG;175
+Portugal;21; Defender; RICARDO COSTA; MOREIRA DA COSTA; Ricardo Miguel; R. COSTA;16-may.-81; Lille; FRA;183
+Portugal;22; Goalkeeper; DANIEL FERNANDES; FERNANDES; Daniel Marcio; D. FERNANDES;25-sep.-83; Iraklis; GRE;194
+Portugal;23; Defender; FABIO COENTRAO; SILVA COENTRAO; Fabio Alexandre; F. COENTRÃO;11-mar.-88; Benfica; POR;181
+Serbia;1; Goalkeeper; Vladimir STOJKOVIC; STOJKOVIC; Vladimir; STOJKOVIĆ;28-jul.-83; Wigan; ENG;195
+Serbia;2; Defender; Antonio RUKAVINA; RUKAVINA; Antonio; RUKAVINA;26-ene.-84; Munich 1860; GER;177
+Serbia;3; Defender; Aleksandar KOLAROV; KOLAROV; Aleksandar; KOLAROV;10-nov.-85; Lazio; ITA;187
+Serbia;4; Midfielder; Gojko KACAR; KACAR; Gojko; KAČAR;26-ene.-87; Hertha Berlin; GER;185
+Serbia;5; Defender; Nemanja VIDIC; VIDIC; Nemanja; VIDIĆ;21-oct.-81; Manchester Utd.; ENG;185
+Serbia;6; Defender; Branislav IVANOVIC; IVANOVIC; Branislav; IVANOVIĆ;22-feb.-84; Chelsea; ENG;188
+Serbia;7; Midfielder; Zoran TOSIC; TOŠIC; Zoran; TOŠIĆ;28-abr.-87; FC Cologne; GER;171
+Serbia;8; Forward; Danko LAZOVIC; LAZOVIC; Danko; LAZOVIĆ;17-may.-83; Zenit St Petersburg; RUS;185
+Serbia;9; Forward; Marko PANTELIC; PANTELIC; Marko; PANTELIĆ;15-sep.-78; Ajax; NED;181
+Serbia;10; Midfielder; Dejan STANKOVIC; STANKOVIC; Dejan; STANKOVIĆ;11-sep.-78; Inter; ITA;181
+Serbia;11; Midfielder; Nenad MILIJAS; MILIJAŠ; Nenad; MILIJAŠ;30-abr.-83; Wolverhampton; ENG;182
+Serbia;12; Goalkeeper; Bojan ISAILOVIC; ISAILOVIC; Bojan; ISAILOVIĆ;25-mar.-80; Zaglebie Lubin; POL;192
+Serbia;13; Defender; Aleksandar LUKOVIC; LUKOVIC; Aleksandar; LUKOVIĆ;23-oct.-82; Udinese; ITA;184
+Serbia;14; Midfielder; Milan JOVANOVIC; JOVANOVIC; Milan; JOVANOVIĆ;18-abr.-81; Standard Liege; BEL;183
+Serbia;15; Forward; Nikola ZIGIC; ŽIGIC; Nikola; ŽIGIĆ;25-sep.-80; Valencia; ESP;202
+Serbia;16; Defender; Ivan OBRADOVIC; OBRADOVIC; Ivan; OBRADOVIĆ;25-jul.-88; Zaragoza; ESP;181
+Serbia;17; Midfielder; Milos KRASIC; KRASIC; Miloš; KRASIĆ;01-nov.-84; CSKA Moscow; RUS;185
+Serbia;18; Midfielder; Milos NINKOVIC; NINKOVIC; Milos; NINKOVIĆ;25-dic.-84; Dynamo Kyiv; UKR;179
+Serbia;19; Midfielder; Radosav PETROVIC; PETROVIC; Radosav; PETROVIĆ;08-mar.-89; Partizan; SRB;193
+Serbia;20; Defender; Neven SUBOTIC; SUBOTIC; Neven; SUBOTIĆ;10-dic.-88; Borussia Dortmund; GER;193
+Serbia;21; Forward; Dragan MRDJA; MRDJA; Dragan; MRDJA;23-ene.-84; Vojvodina Novi Sad; SRB;187
+Serbia;22; Midfielder; Zdravko KUZMANOVIC; KUZMANOVIC; Zdravko; KUZMANOVIĆ;22-sep.-87; VfB Stuttgart; GER;187
+Serbia;23; Goalkeeper; Andjelko DJURICIC; ÐJURICIC; Andelko; ĐURIČIĆ;21-nov.-80; Leiria; POR;194
+Slovakia;1; Goalkeeper; Jan MUCHA; MUCHA; Jan; MUCHA;05-dic.-82; Legia Warsaw; POL;189
+Slovakia;2; Defender; Peter PEKARIK; PEKARIK; Peter; PEKARIK;30-oct.-86; Wolfsburg; GER;176
+Slovakia;3; Defender; Martin SKRTEL; SKRTEL; Martin; SKRTEL;15-dic.-84; Liverpool; ENG;188
+Slovakia;4; Defender; Marek CECH; CECH; Marek; CECH;26-ene.-83; West Bromwich Albion; ENG;181
+Slovakia;5; Defender; Radoslav ZABAVNIK; ZABAVNIK; Radoslav; ZABAVNIK;16-sep.-80; Mainz 05; GER;180
+Slovakia;6; Midfielder; Zdenko STRBA; STRBA; Zdenko; STRBA;09-jun.-76; Xanthi; GRE;187
+Slovakia;7; Midfielder; Vladimir WEISS; WEISS; Vladimir; WEISS;30-nov.-89; Manchester City; ENG;176
+Slovakia;8; Midfielder; Jan KOZAK; KOZAK; Jan; KOZAK;22-abr.-80; Timisoara; ROU;192
+Slovakia;9; Forward; Stanislav SESTAK; SESTAK; Stanislav; SESTAK;16-dic.-82; Bochum; GER;178
+Slovakia;10; Midfielder; Marek SAPARA; SAPARA; Marek; SAPARA;31-jul.-82; Ankaragucu; TUR;176
+Slovakia;11; Forward; Robert VITTEK; VITTEK; Robert; VITTEK;01-abr.-82; Ankaragucu; TUR;188
+Slovakia;12; Goalkeeper; Dusan PERNIS; PERNIS; Dusan; PERNIS;28-nov.-84; Dundee Utd.; SCO;190
+Slovakia;13; Forward; Filip HOLOSKO; HOLOSKO; Filip; HOLOSKO;17-ene.-84; Besiktas; TUR;186
+Slovakia;14; Forward; Martin JAKUBKO; JAKUBKO; Martin; JAKUBKO;26-feb.-80; FC Moscow; RUS;193
+Slovakia;15; Midfielder; Miroslav STOCH; STOCH; Miroslav; STOCH;19-oct.-89; Twente Enschede; NED;168
+Slovakia;16; Defender; Jan DURICA; DURICA; Jan; DURICA;10-dic.-81; Hannover 96; GER;187
+Slovakia;17; Midfielder; Marek HAMSIK; HAMSIK; Marek; HAMSIK;27-jul.-87; Napoli; ITA;184
+Slovakia;18; Forward; Erik JENDRISEK; JENDRISEK; Erik; JENDRISEK;26-oct.-86; Kaiserslautern; GER;176
+Slovakia;19; Midfielder; Juraj KUCKA; KUCKA; Juraj; KUCKA;26-feb.-87; Sparta Prague; CZE;186
+Slovakia;20; Midfielder; Kamil KOPUNEK; KOPUNEK; Kamil; KOPUNEK;18-may.-84; Spartak Trnava; SVK;180
+Slovakia;21; Defender; Kornel SALATA; SALATA; Kornel; SALATA;24-ene.-85; Slovan Bratislava; SVK;190
+Slovakia;22; Defender; Martin PETRAS; PETRAS; Martin; PETRAS;02-nov.-79; Cesena; ITA;187
+Slovakia;23; Goalkeeper; Dusan KUCIAK; KUCIAK; Dusan; KUCIAK;21-may.-85; Vaslui; ROU;195
+Slovenia;1; Goalkeeper; Samir HANDANOVIC; HANDANOVIC; Samir; HANDANOVIĆ S.;14-jul.-84; Udinese; ITA;193
+Slovenia;2; Defender; Miso BRECKO; BRECKO; Mišo; BREČKO;01-may.-84; FC Cologne; GER;172
+Slovenia;3; Defender; Elvedin DZINIC; DŽINIC; Elvedin; DŽINIĆ;25-ago.-85; Maribor; SVN;189
+Slovenia;4; Defender; Marko SULER; ŠULER; Marko; ŠULER;09-mar.-83; Gent; BEL;187
+Slovenia;5; Defender; Bostjan CESAR; CESAR; Boštjan; CESAR;09-jul.-82; Grenoble; FRA;190
+Slovenia;6; Defender; Branko ILIC; ILIC; Branko; ILIĆ;06-feb.-83; FC Moscow; RUS;186
+Slovenia;7; Forward; Nejc PECNIK; PECNIK; Nejc; PEČNIK;03-ene.-86; Nacional Madeira; POR;187
+Slovenia;8; Midfielder; Robert KOREN; KOREN; Robert; KOREN;20-sep.-80; West Bromwich Albion; ENG;173
+Slovenia;9; Forward; Zlatan LJUBIJANKIC; LJUBIJANKIC; Zlatan; LJUBIJANKIĆ;15-dic.-83; Gent; BEL;185
+Slovenia;10; Midfielder; Valter BIRSA; BIRSA; Valter; BIRSA;07-ago.-86; Auxerre; FRA;180
+Slovenia;11; Forward; Milivoje NOVAKOVIC; NOVAKOVIC; Milivoje; NOVAKOVIĆ;18-may.-79; FC Cologne; GER;191
+Slovenia;12; Goalkeeper; Jasmin HANDANOVIC; HANDANOVIC; Jasmin; HANDANOVIĆ J.;28-ene.-78; Mantova; ITA;197
+Slovenia;13; Defender; Bojan JOKIC; JOKIC; Bojan; JOKIĆ;17-may.-86; Chievo; ITA;171
+Slovenia;14; Forward; Zlatko DEDIC; DEDIC; Zlatko; DEDIĆ;05-oct.-84; Bochum; GER;172
+Slovenia;15; Midfielder; Rene KRHIN; KRHIN; Rene; KRHIN;21-may.-90; Inter; ITA;184
+Slovenia;16; Goalkeeper; Aleksander SELIGA; ŠELIGA; Aleksander; ŠELIGA;01-feb.-80; Sparta Rotterdam; NED;187
+Slovenia;17; Midfielder; Andraz KIRM; KIRM; Andraz; KIRM;06-sep.-84; Wisla Krakow; POL;185
+Slovenia;18; Midfielder; Aleksandar RADOSAVLJEVIC; RADOSAVLJEVIC; Aleksandar; RADOSAVLJEVIĆ;25-abr.-79; Larissa; GRE;181
+Slovenia;19; Defender; Suad FILEKOVIC; FILEKOVIC; Suad; FILEKOVIĆ;16-sep.-78; Maribor; SVN;190
+Slovenia;20; Midfielder; Andrej KOMAC; KOMAC; Andrej; KOMAC;04-dic.-79; Maccabi Tel-Aviv; ISR;170
+Slovenia;21; Midfielder; Dalibor STEVANOVIC; STEVANOVIC; Dalibor; STEVANOVIĆ;27-sep.-84; Vitesse Arnhem; NED;183
+Slovenia;22; Defender; Matej MAVRIC; ROŽIC MAVRIC; Matej; MAVRIČ;29-ene.-79; TuS Koblenz; GER;186
+Slovenia;23; Forward; Tim MATAVZ; MATAVŽ; Tim; MATAVŽ;13-ene.-89; Groningen; NED;190
+South Africa;1; Goalkeeper; Moneeb JOSEPHS; JOSEPHS; Moneeb; JOSEPHS;19-may.-80; Orlando Pirates; RSA;184
+South Africa;2; Defender; Siboniso GAXA; GAXA; Siboniso; GAXA;06-abr.-84; Mamelodi Sundowns; RSA;178
+South Africa;3; Defender; Tsepo MASILELA; MASILELA; Tsepo; MASILELA;05-may.-85; Maccabi Haifa; ISR;174
+South Africa;4; Defender; Aaron MOKOENA; MOKOENA; Teboho Aaron; MOKOENA;25-nov.-80; Portsmouth; ENG;183
+South Africa;5; Defender; Anele NGCONGCA; NGCONGCA; Anele Calvin; NGCONGCA;20-oct.-87; Racing Genk; BEL;177
+South Africa;6; Midfielder; MacBeth SIBAYA; SIBAYA; Ntuthuko MacBeth-Mao; SIBAYA;25-nov.-77; Rubin Kazan; RUS;176
+South Africa;7; Midfielder; Lance DAVIDS; DAVIDS; Lance; DAVIDS;11-abr.-85; Ajax Cape Town; RSA;171
+South Africa;8; Midfielder; Siphiwe TSHABALALA; TSHABALALA; Siphiwe; TSHABALALA;25-sep.-84; Kaizer Chiefs; RSA;170
+South Africa;9; Forward; Katlego MPHELA; MPHELA; Katlego; MPHELA;29-nov.-84; Mamelodi Sundowns; RSA;180
+South Africa;10; Midfielder; Steven PIENAAR; PIENAAR; Steven Jerome; PIENAAR;17-mar.-82; Everton; ENG;173
+South Africa;11; Midfielder; Teko MODISE; MODISE; Teko; MODISE;22-dic.-82; Orlando Pirates; RSA;172
+South Africa;12; Midfielder; Reneilwe LETSHOLONYANE; LETSHOLONYANE; Reneilwe; LETSHOLONYANE;09-jun.-82; Kaizer Chiefs; RSA;173
+South Africa;13; Midfielder; Kagisho DIKGACOI; DIKGACOI; Kagisho; DIKGACOI;24-nov.-84; Fulham; ENG;180
+South Africa;14; Defender; Matthew BOOTH; BOOTH; Matthew Paul; BOOTH;14-mar.-77; Mamelodi Sundowns; RSA;198
+South Africa;15; Defender; Lucas THWALA; THWALA; Lucas; THWALA;19-oct.-81; Orlando Pirates; RSA;170
+South Africa;16; Goalkeeper; Itumeleng KHUNE; KHUNE; Itumeleng; KHUNE;20-jun.-87; Kaizer Chiefs; RSA;180
+South Africa;17; Forward; Bernard PARKER; PARKER; Bernard Melvin; PARKER;16-mar.-86; Twente Enschede; NED;172
+South Africa;18; Forward; Siyabonga NOMVETHE; NOMVETHE; Siyabonga Eugene; NOMVETHE;02-dic.-77; Moroka Swallows; RSA;173
+South Africa;19; Midfielder; Surprise MORIRI; MORIRI; Surprise; MORIRI;20-mar.-80; Mamelodi Sundowns; RSA;173
+South Africa;20; Defender; Bongani KHUMALO; KHUMALO; Bongani; KHUMALO;06-ene.-87; SuperSport Utd.; RSA;184
+South Africa;21; Defender; Siyabonga SANGWENI; SANGWENI; Siyabonga; SANGWENI;29-sep.-81; Golden Arrows; RSA;182
+South Africa;22; Goalkeeper; Shu-Aib WALTERS; WALTERS; Shu-Aib; WALTERS;26-dic.-81; Maritzburg Utd.; RSA;188
+South Africa;23; Midfielder; Thanduyise KHUBONI; KHUBONI; Thanduyise; KHUBONI;23-may.-86; Golden Arrows; RSA;181
+Spain;1; Goalkeeper; Iker CASILLAS; CASILLAS FERNANDEZ; Iker; CASILLAS;20-may.-81; Real Madrid; ESP;184
+Spain;2; Defender; Raul ALBIOL; ALBIOL TORTAJADA; Raul; R.ALBIOL;04-sep.-85; Real Madrid; ESP;187
+Spain;3; Defender; Gerard PIQUE; PIQUE BERNABEU; Gerard; PIQUÉ;02-feb.-87; Barcelona; ESP;192
+Spain;4; Defender; Carlos MARCHENA; MARCHENA LOPEZ; Carlos; C.MARCHENA;31-jul.-79; Valencia; ESP;182
+Spain;5; Defender; Carles PUYOL; PUYOL SAFORCADA; Carlos; PUYOL;13-abr.-78; Barcelona; ESP;178
+Spain;6; Midfielder; Andres INIESTA; INIESTA LUJAN; Andres; A.INIESTA;11-may.-84; Barcelona; ESP;170
+Spain;7; Forward; David VILLA; VILLA SANCHEZ; David; DAVID VILLA;03-dic.-81; Valencia; ESP;175
+Spain;8; Midfielder; XAVI; HERNANDEZ CREUS; Xavier; XAVI;25-ene.-80; Barcelona; ESP;170
+Spain;9; Forward; Fernando TORRES; TORRES SANZ; Fernando José; TORRES;20-mar.-84; Liverpool; ENG;181
+Spain;10; Midfielder; Cesc FABREGAS; FABREGAS SOLER; Francesc; FABREGAS;04-may.-87; Arsenal; ENG;175
+Spain;11; Defender; Joan CAPDEVILA; CAPDEVILA MENDEZ; Joan; CAPDEVILA;03-feb.-78; Villarreal; ESP;182
+Spain;12; Goalkeeper; Victor VALDES; VALDES ARRIBAS; Victor; V.VALDES;14-ene.-82; Barcelona; ESP;183
+Spain;13; Forward; Juan Manuel MATA; MATA GARCIA; Juan Manuel; MATA;28-abr.-88; Valencia; ESP;174
+Spain;14; Midfielder; XABI ALONSO; ALONSO OLANO; Xabier; ALONSO;25-nov.-81; Real Madrid; ESP;183
+Spain;15; Defender; SERGIO RAMOS; RAMOS GARCIA; Sergio; RAMOS;30-mar.-86; Real Madrid; ESP;183
+Spain;16; Midfielder; Sergio BUSQUETS; BUSQUETS BURGOS; Sergio; SERGIO;16-jul.-88; Barcelona; ESP;189
+Spain;17; Defender; Alvaro ARBELOA; ARBELOA COCA; Alvaro; ARBELOA;17-ene.-83; Real Madrid; ESP;184
+Spain;18; Forward; PEDRO; RODRIGUE LEDESMA; Pedro Eliezer; PEDRO;28-jul.-87; Barcelona; ESP;169
+Spain;19; Forward; Fernando LLORENTE; LLORENTE TORRES; Fernando Javier; LLORENTE;26-feb.-85; Athletic Bilbao; ESP;194
+Spain;20; Midfielder; Javier MARTINEZ; MARTINEZ AGUINAGA; Javier; J.MARTINEZ;02-sep.-88; Athletic Bilbao; ESP;190
+Spain;21; Midfielder; DAVID SILVA; JIMENEZ SILVA; David Josue; SILVA;08-ene.-86; Valencia; ESP;177
+Spain;22; Forward; Jesus NAVAS; NAVAS GONZALEZ; Jesus; J.NAVAS;21-nov.-85; Sevilla FC; ESP;172
+Spain;23; Goalkeeper; Pepe REINA; REINA PAEZ; José Manuel; REINA;31-ago.-82; Liverpool; ENG;187
+Switzerland;1; Goalkeeper; Diego BENAGLIO; BENAGLIO; Diego; BENAGLIO;08-sep.-83; Wolfsburg; GER;193
+Switzerland;2; Defender; Stephan LICHTSTEINER; LICHTSTEINER; Stephan; LICHTSTEINER;16-ene.-84; Lazio; ITA;180
+Switzerland;3; Defender; Ludovic MAGNIN; MAGNIN; Ludovic; MAGNIN;20-abr.-79; FC Zurich; SUI;186
+Switzerland;4; Defender; Philippe SENDEROS; SENDEROS; Philippe; SENDEROS;14-feb.-85; Everton; ENG;190
+Switzerland;5; Defender; Steve VON BERGEN; VON BERGEN; Steve; VON BERGEN;10-jun.-83; Hertha Berlin; GER;183
+Switzerland;6; Midfielder; Benjamin HUGGEL; HUGGEL; Benjamin; HUGGEL;07-jul.-77; Basel; SUI;190
+Switzerland;7; Midfielder; Tranquillo BARNETTA; BARNETTA; Tranquillo; BARNETTA;22-may.-85; Bayer Leverkusen; GER;178
+Switzerland;8; Midfielder; Gokhan INLER; INLER; Gokhan; INLER;27-jun.-84; Udinese; ITA;183
+Switzerland;9; Forward; Alexander FREI; FREI; Alexander; FREI;15-jul.-79; Basel; SUI;180
+Switzerland;10; Forward; Blaise NKUFO; NKUFO; Blaise; NKUFO;25-may.-75; Twente Enschede; NED;186
+Switzerland;11; Midfielder; Valon BEHRAMI; BEHRAMI; Valon; BEHRAMI;19-abr.-85; West Ham Utd.; ENG;184
+Switzerland;12; Goalkeeper; Marco WOELFLI; WÖLFLI; Marco; WÖLFLI;22-ago.-82; Young Boys; SUI;185
+Switzerland;13; Defender; Stephane GRICHTING; GRICHTING; Stephane; GRICHTING;30-mar.-79; Auxerre; FRA;186
+Switzerland;14; Midfielder; Marco PADALINO; PADALINO; Marco; PADALINO;08-dic.-83; Sampdoria; ITA;177
+Switzerland;15; Midfielder; Hakan YAKIN; YAKIN; Hakan; YAKIN;22-feb.-77; Lucerne; SUI;180
+Switzerland;16; Midfielder; Gelson FERNANDES; TAVARES FERNANDES; Gelson; FERNANDES;02-sep.-86; Saint-Etienne; FRA;183
+Switzerland;17; Defender; Reto ZIEGLER; ZIEGLER; Reto; ZIEGLER;16-ene.-86; Sampdoria; ITA;183
+Switzerland;18; Forward; Albert BUNJAKU; BUNJAKU; Albert; BUNJAKU;29-nov.-83; Nuremberg; GER;178
+Switzerland;19; Forward; Eren DERDIYOK; DERDIYOK; Eren; DERDIYOK;12-jun.-88; Bayer Leverkusen; GER;190
+Switzerland;20; Midfielder; Pirmin SCHWEGLER; SCHWEGLER; Pirmin; SCHWEGLER;09-mar.-87; Eintracht Frankfurt; GER;178
+Switzerland;21; Goalkeeper; Johnny LEONI; LEONI; Johnny; LEONI;30-jun.-84; FC Zurich; SUI;189
+Switzerland;22; Defender; Mario EGGIMANN; EGGIMANN; Mario; EGGIMANN;24-ene.-81; Hannover 96; GER;184
+Switzerland;23; Midfielder; Xherdan SHAQIRI; SHAQIRI; Xherdan; SHAQIRI;10-oct.-91; Basel; SUI;169
+Uruguay;1; Goalkeeper; Fernando MUSLERA; MUSLERA MICOL; Nestor Fernando; MUSLERA;16-jun.-86; Lazio; ITA;190
+Uruguay;2; Defender; Diego LUGANO; LUGANO MORENO; Diego Alfredo; LUGANO;02-nov.-80; Fenerbahce; TUR;188
+Uruguay;3; Defender; Diego GODIN; GODIN LEAL; Diego Roberto; GODIN;16-feb.-86; Villarreal; ESP;185
+Uruguay;4; Defender; Jorge FUCILE; FUCILE PERDOMO; Jorge Ciro; FUCILE;19-nov.-84; Porto; POR;177
+Uruguay;5; Midfielder; Walter GARGANO; GARGANO GUEVARA; Walter Alejandro; GARGANO;23-jul.-84; Napoli; ITA;168
+Uruguay;6; Defender; Mauricio VICTORINO; VICTORINO DANSILIO; Mauricio Bernardo; VICTORINO;11-oct.-82; Univ. de Chile; CHI;182
+Uruguay;7; Forward; Edinson CAVANI; CAVANI GOMEZ; Edinson Roberto; CAVANI;14-feb.-87; Palermo; ITA;188
+Uruguay;8; Midfielder; Sebastian EGUREN; EGUREN LEDESMA; Sebastian; EGUREN;08-ene.-81; AIK Stockholm; SWE;186
+Uruguay;9; Forward; Luis SUAREZ; SUAREZ DIAZ; Luis Alberto; SUAREZ;24-ene.-87; Ajax; NED;181
+Uruguay;10; Forward; Diego FORLAN; FORLÁN CORAZO; Diego; FORLAN;19-may.-79; Atletico Madrid; ESP;181
+Uruguay;11; Midfielder; Alvaro PEREIRA; PEREIRA BARRAGAN; Alvaro Daniel; A.PEREIRA;28-nov.-85; Porto; POR;182
+Uruguay;12; Goalkeeper; Juan CASTILLO; CASTILLO IRIART; Juan Guillermo; CASTILLO;17-abr.-78; Deportivo Cali; COL;181
+Uruguay;13; Forward; Sebastian ABREU; ABREU GALLO; Washington Sebastian; W.S.ABREU.G;17-oct.-76; Botafogo; BRA;193
+Uruguay;14; Midfielder; Nicolas LODEIRO; LODEIRO BENITEZ; Marcelo Nicolas; LODEIRO;21-mar.-89; Ajax; NED;173
+Uruguay;15; Midfielder; Diego PEREZ; PEREZ AGUADO; Diego Fernando; PEREZ;18-may.-80; Monaco; FRA;176
+Uruguay;16; Defender; Maximiliano PEREIRA; PEREIRA PAEZ; Victorio Maximiliano; M.PEREIRA;08-jun.-84; Benfica; POR;173
+Uruguay;17; Midfielder; Egidio AREVALO; AREVALO RIOS; Egidio Raul; AREVALO RIOS;01-ene.-82; Penarol; URU;168
+Uruguay;18; Midfielder; Ignacio GONZALEZ; GONZALEZ GATTI; Ignacio Maria; I.GONZALEZ;14-may.-82; Valencia; ESP;180
+Uruguay;19; Defender; Andres SCOTTI; SCOTTI PONCE DE LEON; Andres; SCOTTI;14-dic.-75; Colo Colo; CHI;183
+Uruguay;20; Midfielder; Alvaro FERNANDEZ; FERNANDEZ GAY; Alvaro A.; FERNANDEZ;11-oct.-85; Univ. de Chile; CHI;185
+Uruguay;21; Forward; Sebastian FERNANDEZ; FERNANDEZ MIGLIERINA; Sebastián Bruno; S.FERNANDEZ;23-may.-85; Banfield; ARG;167
+Uruguay;22; Defender; Martin CACERES; CACERES SILVA; José Martín; CACERES;07-abr.-87; Juventus; ITA;178
+Uruguay;23; Goalkeeper; Martin SILVA; SILVA LEITES; Martin Andres; SILVA;25-mar.-83; Defensor Sporting; URU;187
+USA;1; Goalkeeper; Tim HOWARD; HOWARD; Timothy Matthew; HOWARD;06-mar.-79; Everton; ENG;187
+USA;2; Defender; Jonathan SPECTOR; SPECTOR; Jonathan Michael Paul; SPECTOR;01-mar.-86; West Ham Utd.; ENG;183
+USA;3; Defender; Carlos BOCANEGRA; BOCANEGRA; Carlos Manuel; BOCANEGRA;25-may.-79; Rennes; FRA;184
+USA;4; Midfielder; Michael BRADLEY; BRADLEY; Michael Sheehan; BRADLEY;31-jul.-87; Borussia Moenchengladbach; GER;185
+USA;5; Defender; Oguchi ONYEWU; ONYEWU; Oguchialu Chijioke; ONYEWU;13-may.-82; AC Milan; ITA;192
+USA;6; Defender; Steve CHERUNDOLO; CHERUNDOLO; Steven Emil; CHERUNDOLO;19-feb.-79; Hannover 96; GER;168
+USA;7; Midfielder; DaMarcus BEASLEY; BEASLEY; DaMarcus Lamont; BEASLEY;24-may.-82; Rangers; SCO;170
+USA;8; Midfielder; Clint DEMPSEY; DEMPSEY; Clinton; DEMPSEY;09-mar.-83; Fulham; ENG;185
+USA;9; Forward; Herculez GOMEZ; GOMEZ; Herculez; GOMEZ;06-abr.-82; Puebla; MEX;178
+USA;10; Midfielder; Landon DONOVAN; DONOVAN; Landon Timothy; DONOVAN;04-mar.-82; Los Angeles Galaxy; USA;173
+USA;11; Midfielder; Stuart HOLDEN; HOLDEN; Stuart Alistair; HOLDEN;01-ago.-85; Bolton Wanderers; ENG;178
+USA;12; Defender; Jonathan BORNSTEIN; BORNSTEIN; Jonathan Rey; BORNSTEIN;07-nov.-84; Chivas USA; USA;175
+USA;13; Midfielder; Ricardo CLARK; CLARK; Ricardo Anthony; CLARK;10-feb.-83; Eintracht Frankfurt; GER;178
+USA;14; Forward; Edson BUDDLE; BUDDLE; Edson Michael; BUDDLE;21-may.-81; Los Angeles Galaxy; USA;185
+USA;15; Defender; Jay DeMERIT; DE MERIT; Jay Michael; DEMERIT;04-dic.-79; Watford; ENG;180
+USA;16; Midfielder; Francisco TORRES; TORRES MEZZELL; Jose Francisco; TORRES;29-oct.-87; Pachuca; MEX;168
+USA;17; Forward; Jozy ALTIDORE; ALTIDORE; Josmer Volmy; ALTIDORE;06-nov.-89; Hull City; ENG;185
+USA;18; Goalkeeper; Brad GUZAN; GUZAN; Bradley Edwin; GUZAN;09-sep.-84; Aston Villa; ENG;193
+USA;19; Midfielder; Maurice EDU; EDU; Maurice; EDU;18-abr.-86; Rangers; SCO;183
+USA;20; Forward; Robbie FINDLEY; FINDLEY; Robert; FINDLEY;04-ago.-85; Real Salt Lake; USA;175
+USA;21; Defender; Clarence GOODSON; GOODSON IV; Clarence Edgar; GOODSON;17-may.-82; IK Start; NOR;193
+USA;22; Midfielder; Benny FEILHABER; FEILHABER; Benny; FEILHABER;19-ene.-85; AGF Aarhus; DEN;175
+USA;23; Goalkeeper; Marcus HAHNEMANN; HAHNEMANN; Marcus; HAHNEMANN;15-jun.-72; Wolverhampton; ENG;192
