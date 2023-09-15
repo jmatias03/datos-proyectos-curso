@@ -1,0 +1,100 @@
+index,Date,Time,Location,Operator,Type,Fatalities,Summary
+0,09/17/1908,17:18,Fort Myer_ Virginia,Military - U.S. Army,Wright Flyer III,1.0,During a demonstration flight_ a U.S. Army flyer flown by Orville Wright nose-dived into the ground from a height of approximately 75 feet_ killing Lt. Thomas E. Selfridge who was a passenger. This was the first recorded airplane fatality in history.  One of two propellers separated in flight_ tearing loose the wires bracing the rudder and causing the loss of control of the aircraft.  Orville Wright suffered broken ribs_ pelvis and a leg.  Selfridge suffered a crushed skull and died a short time later.
+1,07/12/1912,6:30,AtlantiCity_ New Jersey,Military - U.S. Navy,Dirigible,5.0,First U.S. dirigible Akron exploded just offshore at an altitude of 1_000 ft. during a test flight.
+2,08/06/1913,Desconocida,Victoria_ British Columbia_ Canada,Private,Curtiss seaplane,1.0,The first fatal airplane accident in Canada occurred when American barnstormer_ John M. Bryant_ California aviator was killed.
+3,09/09/1913,18:30,Over the North Sea,Military - German Navy,Zeppelin L-1 (airship),14.0,The airship flew into a thunderstorm and encountered a severe downdraft crashing 20 miles north of Helgoland Island into the sea. The ship broke in two and the control car immediately sank drowning its occupants.
+4,10/17/1913,10:30,Near Johannisthal_ Germany,Military - German Navy,Zeppelin L-2 (airship),30.0,Hydrogen gas which was being vented was sucked into the forward engine and ignited causing the airship to explode and burn at 3_000 ft..
+5,03/05/1915,1:00,Tienen_ Belgium,Military - German Navy,Zeppelin L-8 (airship),21.0,Crashed into trees while attempting to land after being shot down by British and French aircraft.
+6,09/03/1915,15:20,Off Cuxhaven_ Germany,Military - German Navy,Zeppelin L-10 (airship),19.0,Exploded and burned near Neuwerk Island_  when hydrogen gas_ being vented_ was ignited by lightning.
+7,07/28/1916,Desconocida,Near Jambol_ Bulgeria,Military - German Army,Schutte-Lanz S-L-10 (airship),20.0,Crashed near the Black Sea_ cause unknown.
+8,09/24/1916,1:00,Billericay_ England,Military - German Navy,Zeppelin L-32 (airship),22.0,Shot down by British aircraft crashing in flames.
+9,10/01/1916,23:45,Potters Bar_ England,Military - German Navy,Zeppelin L-31 (airship),19.0,Shot down in flames by the British 39th Home Defence Squadron.
+10,11/21/1916,Desconocida,Mainz_ Germany,Military - German Army,Super Zeppelin (airship),27.0,Crashed in a storm.
+11,11/28/1916,23:45,Off West Hartlepool_ England,Military - German Navy,Zeppelin L-34 (airship),20.0,Shot down by British anti-aircraft fire and aircraft and crashed into the North Sea.
+12,03/04/1917,Desconocida,Near Gent_ Belgium,Military - German Army,Airship,20.0,Caught fire and crashed.
+13,03/30/1917,Desconocida,Off Northern Germany,Military - German Navy,Schutte-Lanz S-L-9 (airship),23.0,Struck by lightning and crashed into the BaltiSea.
+14,05/14/1917,5:15,Near Texel Island_ North Sea,Military - German Navy,Zeppelin L-22 (airship),21.0,Crashed into the sea from an altitude of 3_000 ft. after being hit by British aircraft fire.
+15,06/14/1917,8:45,Off Vlieland Island_ North Sea,Military - German Navy,Zeppelin L-43 (airship),24.0,Shot down by British aircraft.
+16,08/21/1917,7:00,Off western Denmark,Military - German Navy,Zeppelin L-23 (airship),18.0,Shot down by British aircraft.
+17,10/20/1917,7:45,Near Luneville_ France,Military - German Navy,Zeppelin L-44 (airship),18.0,Shot down by French anti-aircraft fire.
+18,04/07/1918,21:30,Over the Mediterranean,Military - German Navy,Zeppelin L-59 (airship),23.0,Exploded and crashed into the sea off the southern coast of Italy.
+19,05/10/1918,Desconocida,Off Helgoland Island_ Germany,Military - German Navy,Zeppelin L-70 (airship),22.0,Shot down by British aircraft crashing from a height of 17_000 ft.
+20,08/11/1918,10:00,Ameland Island_ North Sea,Military - German Navy,Zeppelin L-53 (airship),19.0,Shot down by british aircraft.
+21,12/16/1918,Desconocida,Elizabeth_ New Jersey,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+22,05/25/1919,Desconocida,Cleveland_ Ohio,US Aerial Mail Service,De Havilland DH-4,1.0,Caught fire in midair. The pilot leaped from the plane to his death as the plane began to go into a dive.
+23,07/19/1919,Desconocida,Dix Run_ Pennsylvania,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+24,10/02/1919,Desconocida,Newcastle_ England,Aircraft Transport and Travel,De Havilland DH-4,1.0,Desconocido
+25,10/14/1919,Desconocida,Cantonsville_ Maryland,US Aerial Mail Service,Curtiss R-4LM,1.0,Desconocido
+26,10/20/1919,Desconocida,English Channel,Aircraft Transport and Travel,De Havilland DH-4,0.0,Desconocido
+27,10/30/1919,Desconocida,Long Valley_ New Jersey,US Aerial Mail Service,De Havilland DH.4,1.0,Desconocido
+28,03/10/1920,Desconocida,New Paris_ Indiana,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+29,03/30/1920,Desconocida,Newark_ New Jersey,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+30,04/10/1920,Desconocida,Newark_ New Jersey,US Aerial Mail Service,Curtiss R-4LM,1.0,Desconocido
+31,04/11/1920,Desconocida,Heller Field_ New Jersey,US Aerial Mail Service,Curtiss JN-4H,1.0,Desconocido
+32,05/12/1920,Desconocida,Oskaloosa_ Iowa,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+33,06/06/1920,Desconocida,Cleveland_ Ohio,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+34,08/16/1920,Desconocida,Bedford_ England,By Air,Armstrong-Whitworth F-K-8,1.0,Desconocido
+35,08/16/1920,Desconocida,College Park_ Maryland,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+36,09/01/1920,Desconocida,Morristown_ New Jersey,US Aerial Mail Service,Junkers JL-6,2.0,Desconocido
+37,09/15/1920,Desconocida,Pemberville_ Ohio,US Aerial Mail Service,Junkers F-13,2.0,Desconocido
+38,09/27/1920,Desconocida,Hillersburg_ Pennsylvania,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+39,10/02/1920,Desconocida,Off Port Vendres_ France,Latecoere Airlines,Salmson 2-A-2,2.0,Desconocido
+40,10/05/1920,Desconocida,Valencia_ Spain,Latecoere Airlines,Breguet 14,2.0,Crashed while landing.
+41,10/15/1920,Desconocida,Batavia_ Illinois,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+42,11/07/1920,Desconocida,Tie Siding_ Wyoming,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+43,12/14/1920,Desconocida,Cricklewood_ England,Handley Page Transport,Handley Page HP-16,4.0,Crashed into a tree on take off in fog.
+44,12/24/1920,Desconocida,Barcelona_ Spain,Aeropostale,Breguet 14,1.0,Desconocido
+45,02/03/1921,Desconocida,Mendotta_ Minnisota,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+46,02/09/1921,Desconocida,La Crosse_ Wisconsin,US Aerial Mail Service,Junkers F-13,3.0,Desconocido
+47,02/15/1921,Desconocida,Off Gibraltar,Aeropostale,Breguet 14,2.0,Desconocido
+48,02/22/1921,Desconocida,Elko_ Nevada,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+49,04/06/1921,Desconocida,Point Cook_ Australia,Military - Royal Australian Air Force,Desconocido,1.0,Desconocido
+50,04/21/1921,Desconocida,Mitchel Field_ NY,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+51,04/29/1921,Desconocida,Cleveland_ Ohio,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+52,05/17/1921,Desconocida,Rock Springs_ Wyoming,US Aerial Mail Service,Desconocido,1.0,Desconocido
+53,07/16/1921,Desconocida,San Francisco_ California,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+54,08/14/1921,Desconocida,Toulouse_ France,Aeropostale,Breguet 14,2.0,Desconocido
+55,08/24/1921,17:40,River Humber_ England,Military - Royal Airship Works,Royal Airship Works ZR-2 (airship),46.0,Crashed due to structural failure followed by two explosions and a fire. Attributed to faulty design.
+56,09/06/1921,Desconocida,Paris_ France,Franco-Roumaine,Potez IX,5.0,Crashed while making an approach to Le Bourget Airport in Paris.
+57,12/05/1921,Desconocida,Near Murchinson River_ Australia,West Australian Airways,Bristol 28 Tourer,3.0,Desconocido
+58,01/14/1922,Desconocida,Paris_ France,Handley Page Transport,Handley Page O/10,5.0,Crashed at Le Bourget field.
+59,02/21/1922,Desconocida,Near Norfolk_ Virginia,Military - U.S. Army Air Service,Dirigible Roma (airship),34.0,Crashed from a height of 500 ft. after experiencing control problems cause by malfunctioning controls.
+60,04/07/1922,Desconocida,Grandvilliers_ France,Daimler Airways / Grands Express Aeriens,de Havilland DH-18 / Farman F-60 Goliath,7.0,A midair collision occurred in poor visibility approximately 18 miles north of Beauvais_ France. This was the  first commercial midair collision in aviation history. Two killed on the de Havilland_ five on the Faman F-60.
+61,04/08/1922,Desconocida,Pao Ting Fou_ China,,,17.0,All seventeen aboard were Chinese nationals.
+62,04/13/1922,Desconocida,Brooklands_ England,Vickers,Vickers Viking,3.0,Desconocido
+63,10/01/1925,Desconocida,Nittany Mt_ Ohio,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+64,06/03/1922,Desconocida,Off Folkestone_ Kent_ England,Cie des Messageries Aeriennes,Bleriot Spad 27,3.0,Desconocido
+65,07/26/1922,Desconocida,Cadix_ Spain,Grands Express Aeriens,Breguet 14,3.0,Desconocido
+66,09/07/1922,Desconocida,Indianapolis_ Indiana,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+67,10/02/1922,Desconocida,Venice_ Italy,Desconocido,de Havilland DH-9,4.0,Desconocido
+68,10/25/1922,Desconocida,Larache_ Morocco,Grands Express Aeriens,Breguet 14,2.0,Desconocido
+69,12/03/1922,Desconocida,Fez_ Morocco,Grands Express Aeriens,Breguet 14,1.0,Desconocido
+70,01/10/1923,Desconocida,Ajaccio_ France,Amee de l'Air,Lioré-et-Olivier H-13,3.0,Desconocido
+71,01/17/1923,Desconocida,Barcelona_ Spain,Grands Express Aeriens,Breguet 14,1.0,Desconocido
+72,01/18/1923,Desconocida,Cheyenne_ Wyoming,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+73,02/26/1923,Desconocida,Meadville_ Pennsylvania,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+74,05/14/1923,Desconocida,Monsures_ France,Grands Express Aeriens,Farman F-60 Goliath,6.0,Desconocido
+75,08/27/1923,Desconocida,Bucharest_ Romania,Campagnie France Roumaine,Blériot Spad 46,2.0,Desconocido
+76,09/07/1923,Desconocida,Colton_ Ohio,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+77,09/14/1923,Desconocida,Berks_ England,Daimler Airways,de Havilland DH-34,6.0,Desconocido
+78,11/18/1923,Desconocida,Russia,CCCP,Junkers F-13,2.0,Desconocido
+79,12/06/1923,Desconocida,Castalia_ Ohio,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+80,12/23/1923,2:30,Over the Mediterranean Sea,Military - French Navy,Zeppelin Dixmunde (airship),52.0,Crashed while on a flight from Toulon_ France to Algiers_ Algeria.  The last known radio contact reported the ship nearly out of fuel and battling strong winds.  Struck by lightning.
+81,12/24/1923,Desconocida,Egbert_ WY,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+82,03/07/1924,Desconocida,Grampian_ Pennsylvania,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+83,04/24/1924,Desconocida,Over the English Channel,KLM Royal Dutch Airlines,Fokker F.III,3.0,Desconocido
+84,06/08/1924,Desconocida,Barranquilla_ Colombia,SCADTA,Junkers F-13,3.0,Desconocido
+85,08/01/1924,Desconocida,United States,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+86,11/06/1924,Desconocida,Cabrerolles_ France,Grands Express Aeriens,Desconocido,1.0,Desconocido
+87,12/21/1924,Desconocida,Goshen_ Indiana,US Aerial Mail Service,De Havilland DH-4,1.0,Desconocido
+88,12/24/1924,Desconocida,Purley_ England,Imperial Airways,de Havilland DH-34B,8.0,Shortly after taking off_ witnesses observed a puff of white smoke after which the plane nose-dived into the ground. Fuel starvation. Captain Stewart and seven passengers were killed in an attempted forced landing.
+89,03/22/1925,Desconocida,Near Tiflies_ Georgia_ USSR,Zakavia,Junkers F-13,5.0,Desconocido
+90,04/25/1925,Desconocida,Alicante_ Spain,Grands Express Aeriens,Breguet 14,4.0,Desconocido
+91,05/25/1925,Desconocida,Alicante_ Spain,Lignes Aeriennes Latecoere,Breguet 14,2.0,Desconocido
+92,06/25/1925,Desconocida,Landrécies_ France,KLM Royal Dutch Airlines,Fokker (KLM)  F.III,4.0,Crashed in poor weather.
+93,06/26/1925,Desconocida,Alicante_ Spain,Grands Express Aeriens,Lioré-et-Olivier H-13,2.0,Desconocido
+94,07/20/1925,Desconocida,Rosas_ Spain,Lignes Aeriennes Latecoere,Breguet 14,1.0,Desconocido
+95,07/24/1925,Desconocida,Budapest_ Hungary,CIDNA,Potez IX,1.0,Desconocido
+96,09/03/1925,5:30,Caldwell_ Ohio,Military - U.S. Navy,Dirigible ZR-1 Shenandoah (airship),14.0,The Shenandoah was flying over Southern Ohio when she abruptly encountered violent atmosphericonditions (thunderstorms). Powerful air currents buffeted her so severely that her crew was unable to maintain control. Rising rapidly above her pressure height_ then falling and rising again_ her hull structure was overstressed amidships_ breaking the airship in two. Shenandoah's external control car and two engine cars fell free_ carrying the dirigible's commanding officer and several other men to their deaths. The stern section came down nearby_ while several men were able to fly the bow section to ground as a free balloon.
+97,09/07/1925,Desconocida,Toul_ France,CIDNA,Desconocido,3.0,Desconocido
+98,11/14/1925,Desconocida,Off Boulogne-sur-Mer_ France,Air Union,Farman F-60 Goliath,2.0,Desconocido
